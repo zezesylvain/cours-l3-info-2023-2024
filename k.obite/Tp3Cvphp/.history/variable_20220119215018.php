@@ -1,0 +1,1 @@
+<!-- declaration de variable servant à afficher 

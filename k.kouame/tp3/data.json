@@ -1,0 +1,129 @@
+{
+    "titre": "Etudiant En Licence Informatique",
+    "presentation": " rigoureux , esprit d'equipe, assidu, autodidacte",
+    "etatCivil": {
+        "civilite": "Mr",
+        "nom": "KOUAME",
+        "prenoms": "KOUADIO SERAPHIN",
+        "date2naissance": "1995-02-20",
+        "lieu2naissance": "FAMIENKRO",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Celibataire",
+        "nce": "CI0218051449",
+        "contacts": {
+            "mobile": "+225 07 07 06 17 98",
+            "email": "kouame.seraphin@una-ufrsfa.ci",
+            "facebook": "",
+            "Google": "kouame marrion seraphin",
+            "Fax": ""
+        }
+    },
+    "cursusScolaire": {
+        "2021-2022": {
+            "ecole": "Universite Nangui Abrogoua",
+            "diplome": "Licence Informatique(en cours)",
+            "detail": ""
+        },
+        "2017-2018": {
+            "ecole": "College Royal Abengourou",
+            "diplome": "BAC D",
+            "detail": ""
+        },
+        "2010-2011": {
+            "ecole": "Lycee Moderne Prikro",
+            "diplome": "BEPC",
+            "detail": ""
+        },
+        "2004-2005 a": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2004-2005 b": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2003-2004": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2002-2003": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2001-2002": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1997-2000": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1994-1997": {
+            "ecole": "",
+            "diplome": "",
+            "": ""
+        }
+    },
+    "experienceProfessionnelles": {
+        "depuis 2012": {
+            "Entreprise": "UniversitE nangui Abrogoua",
+            "Missons": {
+                "1": "Cours magistraux de Analyse Numerique, Programmation WEB, Atelier genie logiciels",
+                "2": "Travaux pratiques et Travaux diriges de Programmation WEB"
+            }
+        },
+        "2011-2012": {
+            "Entreprise": "XERYA",
+            "Missons": {
+                "1": "DEUTSCH: TMA SAP BW",
+                "2": "TF1: Correction d'une solution de report SAP BW"
+            }
+        }
+    },
+    "Competences": {
+        "": {
+            "1": "",
+            "2": ""
+        },
+        "Informatique": {
+            "1": "Debutant en programmation WEB",
+            "2": "Debutant Bases de donnees",
+            "3": "C",
+            "4": "",
+            "5": "",
+            "6": ""
+        },
+        "Pedagogie": {
+            "1": ""
+        },
+        "Langue": {
+            "1": "Francais",
+            "2": "Anglais"
+        }
+    },
+    "Loisirs": {
+        "1": "musique",
+        "2": "Football"
+    },
+    "projets": {
+        "groupe": {
+            "chef": "ncho.vaness",
+            "dossier": "dossier-du-projet-de-groupe"
+        },
+        "TP": {
+            "tp1": "tp1/index.html",
+            "tp2": "tp2/index.html",
+            "tp3": "tp3/index.html"
+        },
+        "perso": {
+            "1": { "titre": "Mon premier projet perso", "dossier": "dossier-du-rojet1" },
+            "2": { "titre": "Mon deuxieme projet perso", "dossier": "dossier-du-rojet2" }
+        }
+    }
+}

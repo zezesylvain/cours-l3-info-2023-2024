@@ -1,0 +1,59 @@
+@import "../css/reset.css";
+@import "../css/grid.css";
+@import "../css/superfish.css";
+@import url(//fonts.googleapis.com/css?family=Noto+Sans);
+@import url(//fonts.googleapis.com/css?family=Lobster);
+
+
+
+
+html {
+	width: 100%;
+}
+body {
+	font: 14px/18px  Arial, Helvetica, sans-serif;
+	color:#826660;
+	
+	min-width:960px;
+	padding-top: 27px;
+	background: red;
+
+}
+h1{
+    text-align: center;
+    border: solid black 1px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+table{
+    position: relative;
+    margin:  0% 30% ;
+    border: 1px solid black;
+    background-color: rgba(238, 255, 0, 0.788);
+}
+table th a{
+    text-decoration: none;
+	color: inherit;
+	outline: none;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+
+}
+table td a{
+    text-decoration: none;
+    color: red;
+    border: 1px solid black;
+    border-radius: 3px;
+	color: inherit;
+	outline: none;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+
+}
+table td a:hover{
+    color: yellowgreen;
+    background-color: aqua;
+
+}

@@ -1,0 +1,52 @@
+{
+    "nom":"TONGUI",
+    "prenom":"JOCELIN WILFRIED",
+    "date_naissance":"15 OCTOBRE 2000",
+    "lieu_naissance":"BREGBO/BINGERVILLE",
+    "genre":"MASCULIN",
+    "nationnalite":"IVOIRIENNE",
+
+    "formation":{
+            "annee1":"2014-2015",
+            "info1":"DIPLOME BEPC lycée moderne cocody angré",
+            "annee2":"2017-2018",
+            "info2":"DIPLOME BAC SERIE D au lycée classique d'Abidjan",
+            "annee3":"2019-2021",
+            "info3":"BAC +2 informatique à L'université NANGUI ABROGOUA",
+            "annee4":"2021 à present",
+            "info4":" LICENCE 3 informatique à L'université NANGUI ABROGOUA"
+    },
+
+    "exp_pro":{
+        "exp_an":"2019",
+     "exp_1":" MEMBRE BENEVOLE ONG-FVA(FEMMES VEUVES D'AFRIQUE)",
+     "exp_2":"TRAITEMENT DE BASE DE DONNEES",
+    "exp_3":"CREATION ET MAINTENANCE DE LA PAGE WEB"
+    },
+
+    "competance":
+    {"comp1":"PROGRAMMATION WEB INTERMEDIAIRE (HTML5/CSS3)",
+        "comp2":"PROGRAMMATION DEBUTANT (JAVA, PYTHON,C,)",
+        "comp3":"GESTION BASE DE DONNEES (MYSQL)"
+
+    },
+    "langue":{
+        "langue1":"FRANCAIS",
+        "langue2":"ANGLAIS(debutant)"
+    },
+
+    "centre_int":{
+        "centre_int1":"CINEMA",
+        "centre_int2":"MULTIMEDIA",
+        "centre_int3": "FOOTBALL",
+        "centre_int4": "JEUX STRATEGE",
+        "centre_int5": "DANSE"
+    },
+
+    "contact":{
+        "tel":"0103491179 / 0767548728",
+        "email":"jocelintongui@gmail.com",
+        "adresse":"ABIDJAN, COCODY "
+    }
+
+}

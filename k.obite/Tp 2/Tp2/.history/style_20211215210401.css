@@ -1,0 +1,102 @@
+
+#copy{
+
+    color: rgb(255, 166, 00);
+    text-align: center;
+}
+
+body{
+
+    background-color:rgb(80, 72, 17)
+
+}
+
+#
+
+#photo0{
+     
+    width: 100%;
+    height: 200px;
+
+}
+
+
+
+#fichier1{
+
+    font-size: 40px; 
+    text-align: right;
+    color: aliceblue 
+  
+}
+
+div{
+
+    
+    border: 2px;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+   
+}
+
+#vide{
+
+    height: 5rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: solid rgba(0, 0, 0, 0.15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+#deco{
+
+    text-align: center;
+}
+
+#fichier11{
+
+    text-align: center;
+}
+
+#deco2{
+
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}
+
+#merci{
+    font-size: 75px;
+    text-align: right;
+    color: aliceblue;
+}
+
+#imagetp25{
+
+    background-image:initial;
+    width: 100%;
+    height: auto;
+    pointer-events: auto;
+}
+
+#imgtp21{
+
+    background-image: none;
+    width: 20%;
+    height: 216%;
+    position: absolute;
+    margin-left: 50px;
+}
+
+#image7{
+    
+    width: 20%;
+    height: 20%px;
+    margin: 50px;
+    
+}
+#revenir{
+
+    text-align: center;
+}

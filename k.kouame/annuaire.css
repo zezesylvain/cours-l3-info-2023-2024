@@ -1,0 +1,27 @@
+body {
+    background-color: #ffd700;
+}
+
+.jumbotron {
+    background-color: rgb(186, 204, 189);
+}
+
+.img {
+    border-radius: 10px;
+    border-color: floralwhite;
+}
+
+.col-sm-4 {
+    background-color: rgb(13, 223, 48);
+}
+
+.etat-civil {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(13, 223, 48)
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.col-sm-4 :hover {
+    background-color: floralwhite;
+} 

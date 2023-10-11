@@ -1,0 +1,488 @@
+*, ::before, ::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
+
+:root{
+    --yellow:#f9ca24;
+     --green:#ff0800;
+    --black:#444;
+    --light-color:#777;
+    --bg-color:#e6e6e6;
+    --border:1rem solid rgba(0,0,0,.2);
+    --box-shadow:.2rem .2rem 0.5rem #ccc,
+                -.2rem -.2rem 0.5rem #fff;
+    --box-shadow-inset:.2rem .2rem 0.5rem #ccc inset,
+                      -.2rem -.2rem 0.5rem #fff inset;
+}
+
+body{
+    background:rgb(219, 219, 219);
+    justify-content: center;
+    align-items: center;
+    font-family: 'lato', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titre-annuaire, .proprietaire  {
+    border: #f9ca24;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    display: block;
+    margin-bottom: .5em;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.proprietaire span{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    display: block;
+    margin-bottom: .5em;
+    color:var(--yellow);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 h2 h3 h4{
+    font-size: 2.5rem;
+    color:rgb(3, 3, 3);
+}
+.search-form , .form-inline{
+    color:aliceblue;
+    text-align: center;
+    display: block;
+    margin: .6em;
+}
+
+.minicv-jumbo{
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    color: white !important;
+    background-color: #584e40;
+    display: block;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5rem 5rem 5rem 0rem;
+    font-size: 1rem;
+    box-shadow: var(--box-shadow);
+    color:var(--black);
+}
+.annuaire-img{
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 5%;
+    padding: 0;
+    width: 75%;
+
+}
+.annuaire-img img{
+    border: #1a1a1a;
+    padding: 0%;
+    animation: none;
+
+}
+.annuaire-item{
+    display: block;
+    color: #1a1a1a;
+    cursor: pointer;
+    transition: transform 0.4s cubic-bezier(0.23,1.83,0.42,1.19);
+}
+
+.annuaire-item:hover{
+    transform: scale(1.1);
+    z-index: 10;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.annuaire-img:hover{
+    animation: 1s linear infinite alternate boxMagix;
+}
+
+.etudiant{
+    color :black;
+}
+
+.liencv{
+    padding: 2px;
+    display: block;
+    text-align: center;
+    width: 50%;
+    font-family: 'lato';
+    position: relative;
+    overflow: hidden;
+    text-transform: capitalize;
+    transition: all 1s ease;
+    display: block;
+    margin: 3px;px 0;
+    padding: 3px;
+    border-radius: 5rem;
+    font-size: 1rem;
+    box-shadow: var(--box-shadow);
+    color:var(--black);
+   
+}
+
+.liencv::before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-45%, -45%) rotate(25deg);
+    z-index:-1;
+    transition: all 0.6s ease;
+    width: 120%;
+    height: 0;
+    background-color: #4154f1;
+
+}
+.liencv:hover::before{
+    height: 300%;
+}
+
+.liencv:hover{
+    color: rgb(255, 251, 251);
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+.pas2CV{
+     margin-top: 10px;
+  display: inline-block;
+  padding: 4px 20px 5px 20px;
+  border-radius: 50px;
+  color: #070707;
+  transition: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  border: 1px solid #fa0404;
+  font-size: small;
+}
+
+@keyframes boxMagix{
+    from{
+        box-shadow: 0 0 0 var(--yellow),
+                    0 0 0 #000000,
+                    0 0 0 var(--yellow),
+                    0 0 0 #000000;
+    }
+    to{
+        box-shadow: 0 -10px 0 var(--yellow),
+                    -10px 0 0 #080808,
+                    0 10px 0 var(--yellow),
+                    10px 0 0 #0c0c0c;
+    }
+}
+
+
+/*---------------ce que je modifie-
+
+--------*/
+.annuaire .annuaire-item {
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  height: 100%;
+  padding: 60px 30px;
+  text-align: center;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.etudiant {
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  height: 100%;
+  padding: 60px 30px;
+  text-align: center;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+
+
+
+.etudiant .bouton-minicv {
+    margin-top: 10px;
+  display: inline-block;
+  padding: 4px 20px 5px 20px;
+  border-radius: 50px;
+  color: #4154f1;
+  transition: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  border: 1px solid #4154f1;
+  font-size: small;
+}
+.liencv{
+    margin-top: 10px;
+     display: inline-block;
+  padding: 2px 10px 3px 10px;
+  border-radius: 50px;
+  color: #4154f1;
+  transition: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  font-size: small;
+}
+.etudiant .bouton-minicv:hover {
+  background: #4154f1;
+  color: #fff;
+  border: 1px solid #020202;
+}
+
+
+
+.projet-perso ul{
+list-style-type: none;
+}
+
+.les-tps ul{
+    list-style-type: none;
+}
+
+.projet-perso a:hover {
+  background: #4154f1;
+  color: #fff;
+  
+}
+
+.mes-projets, .les-tps{
+    margin-top: 10px;
+     display: inline-block;
+  padding: 4px 20px 5px 20px;
+  border-radius: 50px;
+  color: #000000;
+  transition: none;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  border: 1px solid #ececee;
+  font-size: larger;
+  
+}
+.projet-perso .mes-projets-per{
+    padding: 5px;
+}
+.les-tps, .projet-perso, .projet-groupe{
+    padding-top: 50px;
+}
+
+.les-tps a, .projet-groupe a, .projet-perso a, .bouton-minicv, .etudiant{
+    display: block;
+    margin: 3px;px 0;
+    padding: 3px;
+    border-radius: 5rem;
+    font-size: 1rem;
+    box-shadow: var(--box-shadow);
+    color:var(--black);
+}
+
+.les-tps a:hover{
+    box-shadow: var(--box-shadow-inset);
+    color: var(--green);
+}
+.projet-perso a, .les-tps a, .projet-groupe a{
+
+color: #4154f1;
+  font-weight: 700;
+}
+
+.projet-per a{
+    color: #4154f1;
+}
+
+.etudiant span{
+ font-family: 'Nunito', sans-serif;
+}
+
+
+
+.nom {
+    display: block;
+    text-align: center;
+    color: #03224c;
+    font-size: 1.2em;
+    font-family: 'cursive';
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.prenoms, h4 {
+    display: block;
+    text-transform: capitalize;
+    font-size: 1.1em;
+}
+
+.nce {
+    display: block;
+    font-style: 'cursive';
+    margin-top: 5px;
+}
+.nce:before {
+    content: "Num Carte Etudiant: "
+}
+
+.pas2CV:hover {
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
+/*---------------ce que je modifie-
+
+--------*/
+
+@media all and (max-width:640px){
+    .titre-annuaire{
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+        display: block;
+        margin-bottom: .2em;
+        color:var(--yellow);
+        font-family: 'lato',Arial, Helvetica, sans-serif;
+    }
+
+
+    .minicv-jumbo{
+        background: #141414;
+        font-size: medium;
+        font-family: lobster, Lato, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    .list-form{
+        display: flex;
+        font-size: 15px;
+        margin-bottom: 1em;
+    }
+
+    .page-item{
+        overflow: hidden;
+
+    }
+
+    .page-link{
+        font-size: .9em;
+        text-align:center;
+    }
+
+    .annuaire-img{
+        overflow: hidden;
+        border-radius: 50%;
+        margin: 5%;
+        padding: 0;
+        width: 40%;
+        text-align: center;
+        position: relative;
+        left: 25%
+    }
+
+    .annuaire-item{
+        position: relative;
+        display: block;
+        font-size: .9em;
+        cursor: pointer;
+        transition: transform 0.4s cubic-bezier(0.23,1.83,0.42,1.19);
+    }
+    
+
+
+    .liencv{
+        border: var(--yellow) 1px outset;
+        padding: 6px;
+        display: block;
+        text-align: center;
+        width: 50%;
+        font-family: 'lato';
+        position: relative;
+        overflow: hidden;
+        text-transform: capitalize;
+        transition: all 1s ease;
+        margin-bottom: 5px;
+        left: 25%;
+    }
+
+    .liencv::before{
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) rotate(25deg);
+        z-index:-1;
+        transition: all 0.6s ease;
+        width: 120%;
+        height: 0;
+        background-color: var(--yellow);
+    }
+
+    .liencv:hover::before{
+        height: 500%;
+    }
+
+    .liencv:hover{
+        color: rgb(15, 15, 15);
+        text-decoration: none;
+        text-decoration-line: none;
+    }
+    
+        
+    .pas2CV{
+        border: #282937 1px solid;
+        padding: 6px;
+        display: block;
+        text-align: center;
+        width: 50%;
+        font-family: 'lato';
+        position: relative;
+        overflow: hidden;
+        text-transform: capitalize;
+        transition: all 1s ease;
+        background-color: rgb(201, 86, 86);
+        color: white;
+        cursor: default;
+        margin-bottom: 5px;
+        left:25%;
+    }
+
+
+    .annuaire-item:hover{
+        transform: scale(1.2);
+        z-index: 10;
+        margin-bottom: 15px;
+	margin-top: 15px;
+    }
+
+
+    .etudiant{
+        color :black;
+    }
+
+    .nce, .telephone, .email, .bouton-minicv{
+        display: block;
+        text-align:center;
+        margin-top: 100px;
+    }
+
+    .nom, .prenoms{
+        text-align: center;
+        left: 10%;
+        position: relative;
+    }
+
+
+}

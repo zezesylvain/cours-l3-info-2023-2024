@@ -1,0 +1,88 @@
+{
+    "version" : 2,
+    "title" : "Curriculum Vitae",
+    "name_and_firstname" : "Christian Akesse",
+    "fonction" : "Développeur Web & Développeur Backend",
+    "informations_for_me": {
+        "age" : "25 ans",
+        "mail" : "christianakesse54@gmail.com",
+        "phone": "+2250789546567",
+        "address": "Anyama, Côte d'Ivoire",
+        "description_for_me" : "Je suis passionné par le métier du digital surtout le développement de logiciel. Je suis Développeur Full Stack Web."
+    },
+    "informations_skills": {
+        "description" : "J'ai réçu une formation pendant mon parcours scolaire, de plus j'ai appris en autodictate et je me suis former à travers plusieurs formations.",
+        "skills": [
+            {
+                "skills_1" : "HTML5",
+                "percent_1" : "90"
+            },
+            {
+                "skills_2" : "CSS3",
+                "percent_2" : "90"
+            },
+            {
+                "skills_3" : "Javascript",
+                "percent_3" : "60"
+            },
+            {
+                "skills_4" : "Angular",
+                "percent_4" : "70"
+            },
+            {
+                "skills_5" : "PHP",
+                "percent_5" : "70"
+            },
+            {
+                "skills_6" : "PYTHON",
+                "percent_6" : "80"
+            },
+            {
+                "skills_7" : "MySQL",
+                "percent_7" : "70"
+            },
+            {
+                "skills_8" : "JAVA",
+                "percent_8" : "60"
+            }
+        ]
+    },
+    "informations_experiences" : {
+        "experiences" : [
+            {
+                "Fonction" : "Développeur Web",
+                "Type_contrat" : "CDD",
+                "Company" : "Emeryte SARL.",
+                "During" : "Février 2021 - Août 2021",
+                "Description_1" : "J'etais chargé de réaliser des interfaces en angular pour une application de gestion des services financières. De plus je réalisais des reports pour notre application de gestion des services financières.",
+                "Description_2" : "Enfin je concevait des api (interface de programmation d'application) de paiments pour intégrer dans notre application de gestion des services financières."
+            },
+            {
+                "Fonction" : "Développeur Full Stack web",
+                "Type_contrat": "Stage",
+                "Company" : "Orange Côte d'Ivoire.",
+                "During" : "Mars 2020 - Octobre 2021",
+                "Description_1" : "A Orange Côte d'Ivoire, j'étais au département de la transformation digitale , à Orange Digital Academy. Ou j'étais dans une équipe de 5 personnes , on a eu des formations sur plusieurs technologies notament la technologie de la Blockchain.",
+                "Description_2" : "On a réaliser un projet intitulé 'Entrées/sorties', pour gérer les 'Entrées/sorties' des employés et visiteurs à Orange Digital Academy. On a eu à réaliser un projet sur la Blockchain 'Certification de document'."
+            }
+        ]
+    },
+    "informations_school" : {
+        "School_course" : [
+            {
+                "school_name" : "Université Nangui Abrogoua.",
+                "niveau" : "Licence Informatique",
+                "year_school" : "Novembre 2021 -  A présent",
+                "description_school" : "développement d'applications web et mobile."
+            },
+            {
+                "school_name" : "Lycée Moderne de Bonoua.",
+                "niveau" : "Baccalauréat Scientifique (BAC C)",
+                "year_school" : "2015 - 2016",
+                "description_school" : "Mathématiques et Sciences physiques."
+            }
+        ]
+    }
+    
+
+}

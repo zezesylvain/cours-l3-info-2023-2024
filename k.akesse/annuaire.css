@@ -1,0 +1,313 @@
+.menu-haut {
+    border-bottom: 10px solid rgb(65, 57, 57);
+}
+
+.bg-dark {
+    background-color: #9dc6d4!important;
+}
+
+
+body {
+    font-family: 'cursive';
+    width: 100%;
+}
+
+.minicv-jumbo {
+    box-shadow: 10px 0px 25px #1b1b1a;
+    margin-bottom: 30px;
+}
+
+.titre-annuaire {
+    display: block;
+    text-align: center;
+    margin-left: 8%;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 22px;
+    color: #03224c;
+    text-transform: uppercase;
+    font-family: 'cursive';
+    border-left: 1px solid #1b1b1a;
+    border-top: 1px solid #1b1b1a;
+    border-bottom: 6px solid #1b1b1a;
+    border-right: 15px solid #1b1b1a;
+    border-radius: 7px;
+}
+
+.proprietaire {
+    text-align: center;
+    font-size: 25px;
+    color: #03224c;
+}
+
+.designer {
+    color: rgb(121, 179, 245);
+    font-style: 'cursive';
+}
+
+.search-form {
+    float: right;
+    margin-bottom: 15px;
+}
+
+.list-form {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 1.1em;
+    color: #03224c;
+}
+
+.paginationcv {
+    margin-left: 5%;
+}
+
+.page-link {
+    color: rgb(27, 26, 26);
+    margin: 2px 3px;
+}
+
+.page-link:hover {
+    background-color: #9dc6d4;
+    color: #bfcee2;
+}
+
+.annuaire-item {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 5px 5px;
+    margin-left: 30px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 80px;
+    border-bottom: solid 5px #9dc6d4;
+    border-top: 2px solid #9dc6d4;
+    box-shadow: 10px 0px 20px #BBE1F2;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .1s ease-in-out;
+    transition: .1s ease-in-out;
+    background-color: #cfe8f0;
+}
+
+.annuaire-item:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+
+.img-thumbnail {
+    padding: 0 !important;
+    display: block;
+    border: 400px;
+}
+
+.etat-civil {
+    padding: 2px 5px;
+}
+
+.nce {
+    display: block;
+    font-style: 'cursive';
+}
+
+.nce:before {
+    content: "Num Carte Etudiant: "
+}
+
+.nom {
+    display: block;
+    text-align: center;
+    color: #03224c;
+    font-size: 1.2em;
+    font-family: 'cursive';
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.prenoms {
+    display: block;
+    text-transform: capitalize;
+    font-size: 1.1em;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color: #d1313e;
+}
+
+.pas2CV:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.lien-cv,
+.pas2CV {
+    color: red;
+    display: block;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-right: 2px;
+    font-size: 1.2em;
+}
+
+.bouton-minicv {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #9adfff;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.bouton-projet {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #af83f5;
+    color: rgb(20, 20, 20);
+    float: right;
+    position: relative;
+    bottom: 22px;
+    right: 20px;
+}
+
+.btn:hover {
+    border: 1px solid rgb(172, 213, 236);
+    background-color: rgb(172, 213, 236);
+    color: rgb(8, 8, 8);
+}
+
+.les-tps ul li 
+{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    background-color: #9adfff;
+    padding: 10px;
+    border: 1px solid #84aae7;
+}
+
+.les-tps ul
+{
+    text-align: center;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.projet-perso ul li 
+{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+}
+.projet-perso ul
+{
+    text-align: center;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.detail {
+    display: block;
+    clear: both;
+}
+
+.design-photo {
+    display: block;
+    display: block;
+    border: 10px solid white;
+    margin-bottom: 10px;
+    border-radius: 400px;
+    width: 250px;
+}
+
+.minicv-telephone {
+    display: block;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+.minicv-nele {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.minicv-nea {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.email {
+    color: #100418;
+    font-size: 17px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+.minicv-item
+
+{
+    display: block;
+    margin-left: 110px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: hvd;
+    color: #03224c;
+    text-align: center;
+}
+
+#nomPrenoms {
+    text-align: center;
+    color: #03224c;
+    text-transform: uppercase;
+    font-family: hvd;
+}
+
+.close
+{
+    color: #ec1905;
+}
+
+.close :hover {
+    background-color: rgb(184, 204, 231);
+    color: #9dc6d4;
+}
+
+.separator1
+{
+    margin: 20px;
+}
+
+footer
+{
+    background-color: #BBE1F2;
+    size: 40px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.modal-content {
+    display: block;
+    position: relative;
+    padding: 3px 3px;
+    margin-left: 30px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 80px;
+    border-bottom: solid 8px #9dc6d4;
+    border-top: 2px solid #9dc6d4;
+    border-left: 2px solid #9dc6d4;
+    border-right: solid 8px #9dc6d4;
+    box-shadow: 20px 20px 40px #BBE1F2;
+    background-color: #BBE1F2;
+}

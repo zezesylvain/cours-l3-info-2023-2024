@@ -1,0 +1,229 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+main {
+    
+}
+
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    font-size: 15px;
+    box-shadow: 30px 0px 40px rgb(196, 196, 196), -30px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+
+.photo-and-name {
+    
+}
+
+.photo {
+    width: 22%;
+    min-width: 120px;
+    float: right;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #77b5fe;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.objectifd p{
+    font-size: 18px;
+}
+
+#objectif h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+#objectif1 h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+
+#objectif p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#etudes h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+#etudes1 h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#etudes table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+#inf{
+    text-shadow: 2px 3px 3px orange;
+}
+#info{
+    text-shadow: 2px 3px 3px orange;
+}
+.cntl{
+    font-size: 20px;
+}
+#lng{
+    text-shadow: 2px 3px 3px orange;
+}
+#cnt{
+    margin-top: 10px;
+}
+#lsra{
+    text-shadow: 2px 3px 3px orange;
+}
+#lsr{
+    text-align: center;
+    text-shadow: 2px 3px 3px orange;
+}
+h2{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.212);
+    border: 1px dotted black;
+    border-radius: 10px;
+    width: 190px;
+    text-align: center;
+}
+#etudes table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#etudes div tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+#work h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#work table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#work table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#work table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#work table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#competences h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+#competences1 h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+#competences2 h3 {
+    color: white;
+    background-color: #77b5fe;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#competences table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#competences table tr td:first-child {
+    width: 200px;
+}
+
+#competences table tr td:nth-child(2) {
+    width: 300px;
+}

@@ -1,0 +1,36 @@
+body{background-color: white;}
+
+.jumbotron{display: flex;
+	flex-direction: column;
+
+}
+
+.proprietaire{font-size: 60px;
+	text-align: center;
+
+}
+
+.minicv-jumbo{background-color:khaki;
+border-radius: 20px;
+display: flex;
+flex-direction: column;}
+
+.annuaire-item{background-color: rgb(255, 255, 255);
+	box-shadow: 2px 2px 10px black;
+
+}
+
+.annuaire-img, .annuaire-img img{
+              
+			  border-radius: 50px;
+			  border-style: double;
+			  border-color: darkgreen;
+			  border-width: 5px;
+}
+
+.etudiant{border-radius: 20px;
+	padding: 10px;
+	border-style: solid;
+	text-align: center;
+
+}

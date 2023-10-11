@@ -1,0 +1,354 @@
+/*@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(href=https://fonts.googleapis.com/css?family=Courgette);
+@import url(href=https://fonts.googleapis.com/css?family=Kavivanar);*/
+body {
+    background-image: url("photo_annuaire.jpg");
+    font-style: italic;
+}
+
+.menu-haut {
+    width: auto;
+    border-bottom: 7px solid blue;
+    font-family: Raleway, sans-serif;
+    line-height: 1;
+}
+
+.titre-annuaire {
+    float: right;  
+    font-size: 16px;
+}
+
+.proprietaire{
+    font-size: 2.0em;
+   
+    background-color: blanchedalmond;
+    border-bottom: 4px black outset;
+    border-top: 4px rgb(87, 83, 83) solid;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.proprietaire:hover{
+    
+    background-color: grey;
+    
+      
+    color: wheat;
+}
+
+.designer{
+    font-weight: bold;
+    color: orangered;
+}
+
+.list-form{
+
+}
+
+.list-form>option{
+    background-color: rgb(56, 53, 53);
+}
+
+.minicv-jumbo{
+    box-shadow: 16px 16px 8px rgb(56, 53, 53);
+}
+.minicv-jumbo:hover{
+    box-shadow: 16px 16px 8px blue;
+    background-color: whitesmoke;
+}
+
+#pagination-location>ul>li>a:hover {
+    color: whitesmoke;
+    font-weight: bold;
+background-color: ;
+}
+
+#pagination-location>ul{
+    margin: 15px;
+    margin-left: 56px;    
+}
+
+#pagination-location>ul>li>a{
+    background: chocolate;
+    text-align: center;  
+    margin-left: 25px;  
+}
+
+.cadrePlus {
+    background-color: rgb(116, 208, 241);
+    border-bottom: 10px blue outset;
+    border-top: 10px blue solid;
+    border-top-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+    margin-top: 30px;
+}
+.cadrePlus:hover{
+   
+}
+
+
+.img-thumbnail{
+    
+}
+
+.etat-civil{
+    margin-top: 15px;
+    background: whitesmoke;
+    border-radius: 1em;
+    text-align: center;
+}
+
+.bouton-minicv{
+
+}
+
+.bouton-minicv:hover{
+
+}
+
+.bouton-projet {
+    
+}
+
+.bouton-projet:hover{
+
+}
+
+.liencv{
+    color: black;
+    padding-left: 15px;
+}
+
+.liencv:hover{
+    border-radius: 50px;
+    background-color: blue;
+}
+
+.txt {
+    color: black;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;    
+}
+
+.prenoms,
+.nom,
+.nce,
+.telephone {
+    font-weight: bold;
+}
+
+.annuaire-item a {
+    display: block;
+}
+
+.nce:hover {
+    color: rgb(241, 46, 20);
+    background: #FFF;
+    border: 3px solid rgb(158, 158, 117);
+    border-radius: 5px;
+}
+
+.nom:hover {
+    color: rgb(241, 46, 20);
+    background: #FFF;
+    border: 3px solid rgb(172, 172, 131);
+    border-radius: 5px;
+}
+
+.prenoms:hover {
+    color: rgb(241, 46, 20);
+    background: #FFF;
+    border: 3px solid rgb(202, 202, 159);
+    border-radius: 5px;
+}
+
+.telephone:hover {
+    color: rgb(241, 46, 20);
+    background: #FFF;
+    border: 3px solid rgb(165, 165, 147);
+    border-radius: 5px;
+}
+
+.email:hover {
+    color: rgb(241, 46, 20);
+    background: #FFF;
+    border: 3px solid rgb(195, 207, 194);
+    border-radius: 5px;
+}
+
+
+/* PLACE A L'ANNIMATION DE CHAQUE CADRE  */
+
+/* D    E   B   U   T       Z   O   O   M */
+
+.annuaire-item{
+    border-bottom: 4px blue outset;
+    border-top: 4px blue solid;
+    padding: 20px;
+    margin: 40px;
+    background-color: grey;
+    border-top-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+    text-align: center;
+}
+.annuaire-item:hover{
+    border-radius: 2em;
+    background-color: chocolate;
+    border-bottom: 4px black outset;
+    border-top: 4px black solid; 
+}
+/*F I   N       Z   O   O   M */
+.annuaire-item div {
+    position: relative;
+}
+
+.annuaire-item div::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+    display: block;
+    content: '';
+    width: 0;
+    height: 0;
+    background: rgba(62, 223, 235, 0.2);
+    border-radius: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+
+.annuaire-item div:hover::before {
+    -webkit-animation: circle .75s;
+    animation: circle .75s;
+}
+
+@-webkit-keyframes circle {
+    0% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 1;
+    }
+    100% {
+        width: 200%;
+        height: 200%;
+        opacity: 0;
+    }
+}
+
+@keyframes circle {
+    0% {
+        opacity: 1;
+    }
+    40% {
+        opacity: 1;
+    }
+    100% {
+        width: 200%;
+        height: 200%;
+        opacity: 0;
+    }
+}
+
+
+/* M    I   N   I   -   C   V       P   A   R   T */
+
+.modal-content {
+    font-family: 'Kavinar';
+    display: block;
+    position: relative;
+    padding: 3px 2px;
+    margin-left: 22px;
+    margin-right: 56px;
+    margin-bottom: 56px;
+    border-radius: 40px;
+    box-shadow: 10px 15px 32px rgb(241, 160, 10);
+    background: rgb(157, 223, 219);
+    border-bottom: solid 5px #eaec8e;
+    border-right: solid 5px #eaec8e;
+}
+
+/* Couleur de fond du bouton  */
+
+.annee {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #0853f5;
+}
+
+.diplome {
+    display: block;
+    color: rgb(243, 82, 18);
+    font-weight: bold;
+    float: left;
+}
+
+.ecole {
+    font-weight: bold;
+    clear: both;
+    float: left;
+    text-transform: uppercase;
+}
+
+.detail {
+    display: block;
+    clear: both;
+}
+
+.design-photo {
+    display: block;
+    display: block;
+    border: 5px solid rgb(241, 146, 4);
+    margin-bottom: 10px;
+    border-radius: 400px;
+    width: 250px;
+}
+
+.minicv-telephone {
+    display: block;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 17px;
+    font-family: Chilanka;
+}
+
+#nomPrenoms {
+    text-align: center;
+    color: #03224c;
+    text-transform: uppercase;
+    font-family: Kavivanar;
+    font-size: 22px;
+}
+
+.minicv-nele {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.minicv-nea {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.minicv-item {
+    display: block;
+    margin-left: 110px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Chilanka';
+    color: #03224c;
+    text-align: center;
+}
+
+.nele:before {
+    content: "NÃ©e le ";
+    font-weight: bold;
+}
+
+.nea:before {
+    content: "Ã  ";
+    font-weight: bold;
+}

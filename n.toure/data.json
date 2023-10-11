@@ -1,0 +1,126 @@
+{
+	"titre":"Developpeur web et Graphiste & Designer",
+	"presentation":"Bonjour! Je suis TOURE NOUHO, jeune developpeur web debutant et je suis qualifié en Graphisme et Design. <br><br> Je veux mettre mon talent au service de votre entréprise afin d'offrir de nouvelles innovations à votre clientèle.",
+    "etatCivil": {
+		"civilite": "M",
+        "nom"           : "TOURE",
+        "prenoms": " NOUHO",
+        "date2naissance": "1998-10-29",
+        "lieu2naissance": "Kong",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Célibataire sans enfant",
+        "nce": "CI0219053937",
+        "contacts": {
+            "mobile"  : "+225 05 46 257 220",
+            "email": "nouho.toure@una-ufrsfa.ci",
+			"facebook":"EL NAMI NOUHO",
+			"Google":"tourenouho",
+			"Fax":"+225 07 59 706 500"
+            }
+    },
+    "cursusScolaire": {
+                "2005-2009" : {
+                        "ecole":"Universite Nangui Abrogoua",
+                "diplome": "DEUG en Informatique",
+                "detail": ""
+                },
+                "2011": {
+                    "ecole":"Lycée Dominique Ouattara de Korhogo",
+                    "diplome": "BAC",
+                    "detail": ""
+                    },
+                "2004-2005 a": {
+                    "ecole":"Lycée Moderne Dominique Ouattara de Kong",
+                    "diplome": "BEPC",
+                    "detail": ""
+                    },
+                "2004-2005 b": {
+                    "ecole":"",
+                    "diplome": "",
+                    "detail": ""
+                    },
+			  "2003-2004": {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					},
+			   "2002-2003": {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					},
+			   "2001-2002": {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					},
+			   "1997-2000": {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					},
+			   "1994-1997": {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					}
+                },
+    "experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"Pl@net PC",
+			"Missons":{
+				"1":"Gestion de Cyber",
+				"2":"Vente de materiels informatiques, bureautique et scolaire"
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"ONG ACF",
+			"Missons":{
+				"1":"Enqueter dans les villages",
+				"2":""
+			}
+        }
+    },
+    "Competences":{
+		"Business Inteligence":{
+			"1":"",
+			"2":""
+		},
+		"Informatique":{
+			"1":"Debutant programmation WEB",
+			"2":"Bases de donnees",
+			"3":"Infographie",
+			"4":"PHP",
+			"5":"Python",
+			"6":"C"
+		},
+        "Pedagogie":{
+            "1":""
+    },
+    "Langue":{
+        "1": "Francais",
+        "2": "Anglais"
+    }
+        
+    },
+    "Loisirs":{
+            "1":"Cinémas",
+			"2": "Sport",
+			"3":"Musique"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"d.ouattara",
+            "dossier":"projet_de_groupe"
+        },
+        "TP":{
+            "tp1":"TP1",
+            "tp2":"TP2",
+            "tp3":"TP3"
+        },
+        "perso":{
+            "1":{"titre" : "Mon premier projet perso", "dossier":"dossier-du-rojet1"},
+            "2":{"titre" : "Mon deuxieme projet perso", "dossier":"dossier-du-rojet2"}
+        }
+    }
+ }

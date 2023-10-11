@@ -1,0 +1,47 @@
+div nav li {
+    
+    display: inline;
+    margin: 150px;
+    width: 100%;
+   
+}
+div nav a {
+    text-decoration: none;
+    color: white;
+}
+div nav{
+    background-color: #ff793f;
+    height: 10px;
+    padding: 25px;
+    border-radius: 20px;
+}
+body{
+    background-color: #f7f1e3;
+}
+footer{
+    background-color: #33d9b2;
+    height: 50px;
+    text-align: center;
+    padding-top: 45px;
+    border-radius: 20px;
+}div .info{
+    float:right;
+    padding: 25px;
+    margin-top: 25px;
+    padding-right: 455px;
+    font-size: x-large;
+}
+div{
+    padding-top: 25px;
+}
+div .info h4 #nom{
+    color: green;
+    font-size: 25px;
+}div .info h4 #prenoms{
+    color: green;
+    font-size: 25px;
+}div .info h4 #date{
+    color: green;
+    font-size: 25px;
+}
+

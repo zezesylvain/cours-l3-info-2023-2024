@@ -1,0 +1,133 @@
+{
+    "titre": "Informaticien",
+    "presentation": {
+        
+        "1": " Travail en équipe: seul on va certainement très vite. Mais enssemble on va plus loin, et surtout on apprend plus.",
+        "2": " Autodidacte: la plupart de mes connaissances sont le fruit de mes recherches personnels, pas besoins d'attendre obligatoirement les indications d'une autre. ",
+        "3": "Diligent:j'accompli les tâches qu'on m'assigne avec soin et détermination. ",
+        "4": "Créatif:la créativité faire partie de moi, j'aime cela et je  suis résolu à m'en servir convenablement.  "
+    },
+    "etatCivil": {
+        "civilite": "Mr",
+        "nom": "OBITE",
+        "prenoms": " Kokoua Franck Josué",
+        "date2naissance": "1998-12-15",
+        "lieu2naissance": "Gagnoa",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Célibataire sans enfant",
+        "nce": "CIO218050636",
+        "contacts": {
+            "mobile": "+225 07 57 492 578",
+            "email": "obitefrank@gmail.com",
+            "facebook": "Franck Obite Josue",
+            "Google": "Frank Obite",
+            "Fax": ""
+        }
+    },
+    "cursusScolaire": {
+        "2022": {
+            "ecole": "Concevez votre site web avec php & MySql",
+            "diplome": "Certificat Open Classroom",
+            "detail": "2022"
+        },
+        "2016-2017": {
+            "ecole": "Lycée Moderne 1, Daloa",
+            "diplome": "BACCALAUREAT, Série D",
+            "detail": "2016-2017"
+        },
+        "2013-2014 a": {
+            "ecole": "Lycée Moderne 5, Daloa",
+            "diplome": "BREVET D'ETUDE DU PREMIER CYCLE (BEPC)",
+            "detail": "2013-2014"
+        },
+        "2013-2014 b": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2009-2010": {
+            "ecole": "Ecole Des Mines (Mine 1), Daloa",
+            "diplome": " Certidficat d'Etude Primaire Elémentaire (CEPE)",
+            "detail": "2009-2010"
+        },
+        "2002-2003": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "2001-2002": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1997-2000": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1994-1997": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        }
+    },
+    "experienceProfessionnelles": {
+        "depuis 2018": {
+            "Entreprise": "Membre du comité de communication de l'église Méthodiste Galilée Plateau Dokui",
+            "Missions": {
+                "1": " Mission, assuer la Projection de la liturgie des cultes dominicaux",
+                "2": "depuis 2018"
+            }
+        },
+        "2015-2016": {
+            "Entreprise": "ECACERTIFED",
+            "Missions": {
+                "1": "Mission, Coacher les apprenants",
+                "2": "2015-2016"
+            }
+        }
+    },
+    "Competences": {
+        "Business Inteligence": {
+            "1": "",
+            "2": ""
+        },
+        "Informatique": {
+            "1": "Programmation (Web, Python, C/C++)",
+            "2": "Bases de données",
+            "3": "Infographie",
+            "4": "",
+            "5": "Bureautique (Word, Excel, Power point...)",
+            "6": ""
+        },
+        "Musicologie": {
+            "1": "Musicologie"
+
+        },
+        "Langue": {
+            "1": "Francais (lu, écrit et parlé)",
+            "2": "Anglais (niveau universitaire)"
+        }
+    },
+    "Loisirs": {
+        "1": "Football",
+        "2": "Musique",
+        "3": "Voyage",
+        "4": "Lecture"
+    },
+    "projets": {
+        "groupe": {
+            "chef": "d.sidibe",
+            "dossier": "projet reclammation"
+        },
+        "TP": {
+            "tp1": "TP1/index.html",
+            "tp2": "TP2/index.html",
+            "tp3": "TP3/index.php"
+        },
+        "perso": {
+            "1": { "titre": "Mon premier projet perso", "dossier": "dossier-du-rojet1" },
+            "2": { "titre": "Mon deuxieme projet perso", "dossier": "dossier-du-rojet2" }
+        }
+    }
+}

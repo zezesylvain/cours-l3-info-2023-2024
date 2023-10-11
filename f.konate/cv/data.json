@@ -1,0 +1,103 @@
+{
+	"titre":"Etudiant en Licence 3 Informatique",
+    "etatCivil": {
+		"civilite": "Mr",
+        "nom"           : "KONATE",
+        "prenoms": " Fousseny",
+        "date2naissance": "2002-10-22",
+        "lieu2naissance": "Man",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "C&eacute;libataire sans enfant",
+        "nce": "CI0219048125",
+        "contacts": {
+            "mobile"  : "+225 07 79 57 68 00",
+            "email": "konatefousseny@gmail.com"
+            }
+    },
+    "cursusScolaire": {
+                "2014-2015": {
+                    "ecole":"Lyc&eacute;e Moderne  Man, Man, C&ocirc;te d'Ivoire",
+                    "diplome": "BEPC",
+                    "detail": ""
+                },
+                "2017-2018": {
+                    "ecole":"Lyc&eacute;e Moderne Man, Man, C&ocirc;te d'Ivoire",
+                    "diplome": "Baccalaur&eacute;at",
+                    "detail": ""
+                },
+                "2020-2021" : {
+                        "ecole":"Universite Nangui Abrogoua, Abidjan, C&ocirc;te d'Ivoire",
+                "diplome": "Diplome d'Etude Universitaire (DEUG 2) en cours Informatique",
+                "detail": ""
+                },
+                "2021-2022": {
+                    "ecole":"Universite Nangui Abrogoua, Abidjan, C&ocirc;te d'Ivoire",
+                    "diplome": "Diplome d'Etude Universitaire (licence 3) en cours Informatique",
+                    "detail": "Serie D"
+                    }
+                },
+                "experienceProfessionnelles":{
+					"depuis 2012":{
+						"Entreprise":"",
+						"Missons":{
+							"1":"",
+							"2":""
+						}
+					},
+					"2011-2012":{
+						"Entreprise":"",
+						"Missons":{
+							"1":"",
+							"2":""
+						}
+                    }
+                },
+                "Competences":{
+					"Business Inteligence":{
+						"1":"SAP BW",
+						"2":"SAP ECC 6"
+					},
+					"Informatique":{
+						"1":"HTML",
+						"2":"CSS",
+						"3":"JavaScript",
+						"4":"PHP",
+						"5":"PHP",
+						"6":"Java"
+					},
+                    "Pedagogie":{
+                        "1":"Expert MOODLE"
+                    },
+        "Langue": {
+            "1": "Francais",
+            "2": "Anglais",
+            "3": "Espagnol"
+        }
+    },
+                    "Loisirs":{
+               
+							"2": "Natation",
+							"3":"Football",
+							"4":"E-sport"
+                    },
+
+                    "projets":{
+                        "groupe":{
+                            "chef":"v.ncho",
+                            "dossier":"Projet_sondage"
+                        },
+                        "CV":{
+                            "CV complet": "CV complet"
+                        },
+                        "TP":{
+                            "tp1":"TP1",
+                            "tp2":"TP2",
+                            "tp3":"TP3"
+                        },
+                        "perso":{
+                            "1":{"titre" : "Mon premier projet perso", "dossier":"dossier-du-projet1"},
+                            "2":{"titre" : "Mon deuxieme projet perso", "dossier":"dossier-du-projet2"}
+                        }
+                    }
+
+ }

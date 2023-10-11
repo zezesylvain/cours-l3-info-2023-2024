@@ -1,0 +1,133 @@
+{
+
+    "personne": 
+    
+            {
+        
+            "nom": "OBITE",
+            "prenom": "Kokoua Franck Josué",
+            "profession": "Iformaticien",
+            "contact": "07 57 49 25 78 ",
+            "statu": "Obitefrank@gmail.com"
+        
+            },
+    
+        
+
+    "atouts":
+    
+            {
+            
+            "atdd": "Autodidact",
+            "td": "Créatif"
+            },
+    
+
+    
+    
+        "linfo":
+        
+            {
+                "diplome": "Licence Informatique (en cours)",
+                "lieu": "Université Nangui Abrogoua",
+                "annee": "2021-2022"
+            },
+        
+        "cmoffice":
+
+            {
+                "diplome": "Certificat Microsoft Office",
+                "lieu": "Eglise Méthodiste Galilée plateau-dokui",
+                "annee": "2018-2020"
+
+            },
+        
+        "bacc":
+
+            {
+                "diplome": "Baccalaureat Série D",
+                "lieu": "Lycée Moderne 1 Daloa",
+                "annee": "2016-2017"
+            },
+        
+        "bepc":
+
+            {
+                "diplome": "Brevet d'Etude du premier Cycle",
+                "lieu": "Lycée Moderne 5 Daloa",
+                "annee": "2013-2014"
+            },
+
+    
+
+     
+    
+        "storganiste":
+
+            {
+                "fonctionOcc": "Stagiare Organiste",
+                "lieu1": "Eglise Méthodiste Galilée",
+                "tache": "Interpretation, Composition et Harmonisation",
+                "annee": 2022
+            },
+            
+        "cocom":
+
+            {
+                "fonctionOcc": "Membre Comité Communicaton",
+                "lieu1": "Eglise Méthodiste Galilée",
+                "tache": "Assurer la projection de la liturgie du culte",
+                "annee": " depuis décembre 202"
+            },
+
+        "fanglais":
+
+            {
+                "fonctionOcc": "Formateur en Anglais",
+                "lieu1": "Ecacertified-Daloa",
+                "tache": "Former les apprenants",
+                "annee": "2015-2016"
+
+            },
+    
+
+    "competence": 
+    
+            {
+                "gb": "Gestion de base de donnée",
+                "ia": "intéligence artificielle",
+                "pw": "Developpement Web",
+                "poo": "Programmation Orientée Objet",
+                "ms": "Musicologie"
+
+            },
+    
+
+    "langues": 
+    
+            {
+                "fr": "Francais",
+                "ang": "Anglais"
+            },
+    
+
+    "centreInteret":
+    
+            {
+                "ft": "Football",
+                "vg": "Voyage",
+                "mu": "Musique",
+                "lt": "Lecture"
+            },
+    
+
+    "reseauxSociaux":
+    
+            {
+                "fb": "Franck Josué Obite",
+                "wha": "...",
+                "gm": "obitefrank@gmail.com"
+
+            }
+
+}

@@ -1,0 +1,134 @@
+{
+	"titre":"Etudiante en Licence 3 informatique",
+	"presentation": "Salut! Je suis Koulate Noura Bénedicte, passionnée d'informatique.",
+    "etatCivil": {
+		"civilite": "Mlle",
+        "nom" : "Koulate",
+        "prenoms": "Noura Bénedicte",
+        "date2naissance": "30/03/2001",
+        "lieu2naissance": "Adjamé",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Célibataire sans enfant",
+        "nce": "CIO219053482",
+        "contacts": {
+            "mobile"  : "+225 01 029 478 74",
+            "email": "nourabenedictekoulate@gmail.com",
+			"facebook":"Noura Koulate",                  
+			"Instagram":"",
+			"Twitter": ""
+            }
+    },
+    "cursusScolaire": {
+				"2005-2009": {
+					"ecole":"Université Nangui abrogoua, abobo-adjamé, Côte d'Ivoire",
+					"diplome": "Licence 3 informatique", 
+					"detail": "2021 - 2022"
+				},
+                "2011": {
+					"ecole":"Collége Anador, Abobo, Côte d'Ivoire",
+					"diplome": "Baccalauréat Serie C",
+					"detail": "2017 - 2018"
+					},
+				"2004-2005 a" : {
+					"ecole":"",
+					"diplome": "",
+					"detail": ""
+					}
+				,
+        "2004-2005 b": {
+            "ecole": "",
+            "diplome": "",
+            "classe": "",
+            "detail": "",
+            "annee": ""
+        },
+        "2003-2004": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+
+        },
+        "2002-2003": {
+            "ecole": "",
+            "diplome": "",
+            "classe": "",
+            "detail": " ",
+            "annee": ""
+        },
+        "2001-2002": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1997-2000": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1994-1997": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        }
+    },
+	"experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"",
+			"Missons":{
+				"1":"",
+				"2":""
+				
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"",
+			"Missons":{
+				"1":"",
+				"2":""
+				
+			}
+		}
+					
+	},
+	"Competences":{
+		"Business Inteligence":{
+			"1":"",
+			"2":""
+		},
+		"Informatique":{
+			"1":"HTML",
+			"2":"CSS",
+			"3":"PYTHON",
+			"4": "Bootstrap",
+			"5": "PHP",
+			"6": "MYSQL"
+		},
+        "Pedagogie": {
+            "1": ""
+        },
+		"Langue": {
+			"1": "Anglais",
+			"2": "Français"
+		}
+		
+	},
+	"Loisirs":{
+			"1":"Sport",
+			"2":"Voyage"
+	},
+    "projets": {
+        "groupe": {
+            "chef": "b.gramboute",
+            "dossier": "ProjetGroupe"
+        },
+        "TP": {
+            "tp1": "projetweb1",
+            "tp2": "projetweb2",
+            "tp3": "projetweb3"
+        },
+        "perso": {
+            "1": { "titre": "Mon premier projet perso", "dossier": "dossier-du-rojet1" },
+            "2": { "titre": "Mon deuxieme projet perso", "dossier": "dossier-du-rojet2" }
+        }
+    }
+}

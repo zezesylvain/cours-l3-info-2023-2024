@@ -1,0 +1,84 @@
+* { 
+    margin: 0%;
+ padding:	0%;
+}
+body{
+            font-family: Arial, sans-serif;
+            font-size:15px;
+            background-color:rgb(128,128,128);
+            line-height: 1,6;
+            
+}
+            
+* #showcase{
+            background-image:url(../Tp1-html/newyea.jpg);
+            height: 30vh; /* viewport height */
+            width: cover;/* viewport width */
+            background-position: center;
+            background-size: cover;
+            display: flex;
+            flex-direction:column;
+            justify-content: center;
+            align-items: center;
+            padding: 0 20px;
+}
+* #showcase h1{
+            font-size: 30px;
+            color: #ffd700;
+}
+* #showcase p{
+            font-size: 20px;
+            color: #803618;
+}
+*	#showcase button{
+            font-size: 18px;
+            tex-decoration:none;
+            float:right;
+            color: #926239;
+            border: #926239 1px solid;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+}
+* #showcase .button: hover{
+            background: 926239;
+            color: #fff;
+            } 
+* #para p{
+            line-height:2.5;
+            text-align:right;
+            margin: 30px;
+            padding: -10px;
+            margin-top: 50px;
+}
+* #img1{
+            height: 150px;
+            width: 150px;
+            border-radius: 50%;
+            float:left ;
+            margin: 10px;
+            padding:10;
+}
+#web{
+            margin: 10px;
+            padding: 10px;
+}
+#contact{
+            margin: 10px;
+            padding: 10;
+            Ligne-height:5.5px
+}
+footer{
+            text-align:center ;
+            margin-top: 20%;
+}
+#foot{
+            margin-top:44%;
+}
+            
+            
+         
+
+
+
+

@@ -1,0 +1,38 @@
+{
+    "nom" : "Noura Koulate",
+    "titre": "Etudiante en Licence informatique",
+    "info_perso": 
+    {
+        "description": "Salut! Je suis Noura Koulate, passionnée d'informatique",
+        "age": 20,
+        "email": "nourabenedictekoulate@gmail.com",
+        "telephone": "+225 0102947874",
+        "adresse": "Abobo, Abidjan, Côte d'Ivoire"
+    },
+    "competences":
+    {
+        "compet_1": "HTML",
+        "quant_compt_1": 50,
+        "compet_2": "CSS",
+        "quant_compt_2": 50,
+        "compet_3": "PYTHON",
+        "quant_compt_3": 50,
+        "compet_4": "Bootstrap",
+        "quant_compt_4": 40,
+        "compet_5": "PHP",
+        "quant_compt_5": 35,
+        "compet_6": "MYSQL",
+        "quant_compt_6": 50
+    },
+    "parcours": 
+    {
+        "parc_1": "Licence Informatique",
+        "school_parc_1": "Université Nangui Abrogoua",
+        "temps_parc_1": "2021 - Aujourd'hui",
+        "descript_parc_1": "Mathématiques et Informatique",
+        "parc_2": "Baccalauréat C",
+        "school_parc_2": "Collége Anador Abobo",
+        "temps_parc_2": "2017 - 2018",
+        "descript_parc_2": "Mathématiques && Sciences Physiques && Sciences de la vie et de la terre"
+    }
+}

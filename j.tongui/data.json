@@ -1,0 +1,132 @@
+{
+	"titre":"Expert en calculs scientifiques",
+	"presentation":" ce que vous appelez profil, vous pouvez mettre ca ici",
+    "etatCivil": {
+        "genre":"MASCULIN",
+		"civilite": "Mr",
+        "nom"           : "TONGUI",
+        "prenoms": " JOCELIN",
+        "date2naissance": "2000 / 10 / 15",
+        "lieu2naissance": "BINGERVILLE/BREGBO",
+        "nationalite": "IVOIRIENNE",
+        "situationMatrimoniale": "CELIBATAIRE SANS ENFANT",
+        "nce": "CI0219053970",
+        "contacts": {
+            "mobile"  : "+225 07 67 54 87 28",
+            "email": "jocelintongui@gmail.com",
+			"facebook":"Sylvain ZEZE",
+			"Google":"zezesylvain",
+			"Fax":"+225 01 03491179",
+            "adresse": "Côte d'ivoire, Abidjan-Cocody"
+            }
+    },
+    "cursusScolaire": {
+                "2005-2009" : {
+                        "ecole":"LYCEE MODERNE COCODY ANGRE",
+                "diplome": "BEPC",
+                "detail": "MENTION BIEN"
+                },
+                "2011": {
+                    "ecole":"LYCEE CLASSIQUE D'ABIDJAN",
+                    "diplome": "BAC SERIE D",
+                    "detail": "MENTION PASSABLE"
+                    },
+                "2004-2005 a": {
+                    "ecole":"UNIVERSITE NANGUI ABROGOUA, COTE D'IVOIRE",
+                    "diplome": "LICENCE 1 MATH-INFO",
+                    "detail": "MENTION PASSABLE"
+                    },
+                "2004-2005 b": {
+                    "ecole":"UNIVERSITE NANGUI ABROGOUA, COTE D'IVOIRE",
+                    "diplome": "LICENCE 2 MATH-INFO",
+                    "detail": "MENTION ASSEZ BIEN"
+                    },
+			  "2003-2004": {
+					"ecole":"Universite Pierre et Marie Curie, Paris 6, France",
+					"diplome": "DEA Solide Structures et systemes mecanique",
+					"detail": ""
+					},
+			   "2002-2003": {
+					"ecole":"UNIVERSITE NANGUI ABROGOUA, COTE D'IVOIRE",
+					"diplome": "LICENCE 3 INFORMATIQUE",
+					"detail": "MENTION BIEN"
+					},
+			   "2001-2002": {
+					"ecole":"Universite Pierre et Marie Curie, Paris 6, France",
+					"diplome": "Licence de Genie mecanique Option Productique",
+					"detail": ""
+					},
+			   "1997-2000": {
+					"ecole":"Universite de Cocody, Abidjan, C&ocirc;te d'Ivoire",
+					"diplome": "DEUG Math&eacute;matique",
+					"detail": ""
+					},
+			   "1994-1997": {
+					"ecole":"Lyc&eacute;e scientifique, Yamoussoukro, C&ocirc;te d'Ivoire",
+					"diplome": "Bac C",
+					"detail": ""
+					}
+                },
+    "experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"ONG FVA(FEMME VEUVE D'AFRIQUE)",
+			"Missons":{
+				"1":"GESTION BASES DE DONNES, TRAITEMENT DE TEXTE",
+				"2":"CREATION MAINTENACE DE LA PAGE WEB"
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"XERYA",
+			"Missons":{
+				"1":"DEUTSCH: TMA SAP BW",
+				"2":"TF1: Correction d'une solution de report SAP BW"
+			}
+        }
+    },
+    "Competences":{
+		"Business Inteligence":{
+			"1":"SAP BW",
+			"2":"SAP ECC 6"
+		},
+		"Informatique":{
+			"1":"Expert en programmation WEB",
+			"2":"Bases de donnees",
+			"3":"Java",
+			"4":"Python",
+			"5":"Fortran",
+			"6":"C/C++"
+		},
+        "Pedagogie":{
+            "1":"Expert MOODLE"
+    },
+    "Langue": {
+        "1": "Francais",
+        "2": "Anglais"
+    }
+    },
+    "Loisirs":{
+            "1":"BASKETTE",
+			"2": "TENNIS",
+			"3":"FOOTBALL",
+            "4":"DANSE",
+            "5":"MULTIMEDIA",
+            "6":"CINEMA",
+            "7":"MUSIQUE",
+            "8":"LECTUREE"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"d.sidibe",
+            "dossier":"projet reclammation"
+        },
+        "TP":{
+            "tp1":"TP1",
+            "tp2":"TP2",
+            "tp3":"TP3"
+        },
+        "perso":[
+            "dossier-du-rojet1",
+            "dossier-du-projet2"
+            ]
+    }
+ }

@@ -1,0 +1,93 @@
+/*Accueil*/
+body{margin-top: 0;
+	margin-bottom: 0;
+	background-color:rgb(173, 173, 173);}
+
+header{padding: 0px;}
+
+.header{height: 500px;
+		background-image:url(bg1.jpg);
+		background-size:cover;	}
+
+nav{background-color:orange;
+		margin-left: 100px;}
+
+nav a:hover{background-color:white;}
+
+marquee{text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 70px;
+	    color:#133558 ;}
+
+p{font-size: 25px;}
+
+footer{background-color:#133558;
+	height: 150px;
+	width: 1000px;
+	color:white;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 40px;}
+
+/*Contacts */
+  td{width: 200px;
+	font-size: 25px;}
+
+.contacts{width: 400px;}
+
+/*CV style*/
+.cv_cadre{ 
+			width:940px;
+			height:auto;
+			border-radius: 30px 30px 30px 30px;}
+
+.leftcv{  background-color: #00a2b1;;
+	height: auto;
+	width: 440px;
+	padding: 30px;
+	font-size: 20px;}
+
+.righcv{background-color: rgb(199, 197, 197);
+  height: auto;
+  width: 500px;
+  padding: 30px;
+  font-size: 20px;}
+
+.photo{
+ background-image:url(nami1.JPG);
+ background-size: cover;
+ border-radius: 100px;
+ border: dotted 3px white;
+ height: 150px;
+ width: 150px; 
+ margin: 20px auto;}
+
+.name{  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-family: fantasy;}
+
+.niveau{margin-top: -50px;
+	text-align: center;
+	font-size: 20px;}
+
+h3{     height: auto;
+		width: auto;
+		background-color: #f99b1d;
+		text-align: center;
+		padding-top: 5px;
+		border-radius: 50px;
+		 }
+
+li{font-size: 25px;}
+
+.info{color: white;}
+
+.infos{margin-top: -3px;}
+
+progress{width: 150px;
+  border-radius: 100px;
+  background-color: white;
+  color: #f99b1d;}
+
+.fin{margin-left: 250px;}

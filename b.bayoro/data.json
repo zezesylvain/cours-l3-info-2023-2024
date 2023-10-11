@@ -1,0 +1,93 @@
+{
+	"titre":"Expert en programmation",
+	"presentation":"Professionnelle de la programmation dans plusieur language,polyvalent et orienté resultat, avec une vaste connaissance dans tous ce qui est developpement web, programmation de jeux videos 2D, 3D, jeux de platforme, etc.",
+    "etatCivil": {
+		"civilite": "Mr",
+        "nom"           : "BAYORO",
+        "prenoms": " BROU LAURENT STEPHANE",
+        "date2naissance": "04-12-1999",
+        "lieu2naissance": "abobo doume",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "célibataire",
+        "nce": "CI0220053722",
+        "contacts": {
+            "mobile"  : "+225 05 45 78 80 36",
+            "email": "bayoronathan1@gmail.com",
+			"facebook":"nathan bayoro",
+			"Google":"",
+			"Fax":""
+            }
+    },
+    "cursusScolaire": {
+			   "2005-2009": {
+					"ecole":" (Université de Nanguy Abrogoua)",
+					"diplome": "Licence informatique",
+					"detail": "DUT"
+					},
+			   "2011": {
+					"ecole":" (Lycée Municipal  attecoube1)",
+					"diplome": "Bac scientifique",
+					"detail": "BEPC"
+					}
+                },
+"experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"DELICE",
+			"Missons":{
+				"1":"Etant a la  recherche d'un travail pour subvenir a mes besoins.<br>J'ai decidé de travailler pour la société DELICE(une société de vente de glace a vélo).<br>Je ne savais rien sur ce travail mais j'ai su m'adapter en vendant environt 138 glaces par jour par la grace de DIEU au bout de 2 semaine je travaillais jusqu'a 2 heurs du matin la plus part du temps et j'ai aussi su me faire accepter et remarquer positivement par mes colegues ,devancier  et meme mes superieurs.<br>Tous sa pour dire que si j'ai pu faire autant dans un domaine qui ne m'interessais pas personelement et sans experience combien plus je ferrai dans un metrier qui touche a l'informatique.<br>L'informatique est ma plus grande passion   et je serrai pret a tous sacrifier pour faire evoluer se domaine.<br>Merci d'avoir considerer se message en le lisant.<br>Bonne Journée ",
+				"2":"vendeur ambulant"
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"XXXXXXXXXX",
+			"Missons":{
+				"1":"certifica de reussite licence1",
+				"2":"CEP"
+			}
+        }
+    },
+    "Competences":{
+		"Business Inteligence":{
+			"1":"souhaite faire la securite informatique",
+			"2":"xxxxxxxxxx"
+		},
+		"Informatique":{
+			"1":"HTML",
+			"2":"CSS",
+			"3":"Language C ",
+			"4":" Python",
+			"5":"",
+			"6":"",
+            "7":""
+		},
+        "Pedagogie":{
+            "1":"Allemand"
+    },
+        "Langue": {
+            "1": "Francais",
+            "2": "Anglais"
+        }
+    },
+    "Loisirs":{
+            "1":"Game",
+			"2": "manger",
+			"3":"Football",
+            "4": "Rugby (je plaque les gens)",
+            "5": " ludo"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"k.akesse",
+            "dossier":"public_html"
+        },
+        "TP":{
+            "tp1":"TP1",
+            "tp2":"TP2",
+            "tp3":"TP3"
+        },
+        "perso":{
+            "1":{"titre" : "", "":""},
+            "2":{"titre" : "", "":""}
+        }
+    }
+ }

@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  
+  /* Show it is fixed to the top */
+body {
+height: 75rem;
+padding-top: 4.5rem;
+}
+.cta{
+height: 30px ;
+background-color:#808000;
+color: white;
+width: 100%;
+}
+.container{
+padding-top:60px ;
+}
+#Loisirs{
+padding-bottom:100px ;
+}

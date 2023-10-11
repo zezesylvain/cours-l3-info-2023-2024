@@ -1,0 +1,139 @@
+{
+	"titre":"Développeur Web & Développeur Backend",
+	"presentation":" J'ai réçu une formation pendant mon parcours scolaire, de plus j'ai appris en autodictate et je me suis former à travers plusieurs formations.",
+    "etatCivil": {
+		"civilite": "Mr",
+        "nom"           : "AKESSE",
+        "prenoms": "KOUA-TEKE ARMEL CHRISTIAN",
+        "date2naissance": "1996-10-27",
+        "lieu2naissance": "BONOUA",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Célibataire",
+        "nce": "CI0217046450",
+        "contacts": {
+            "mobile"  : "+225 07 89 546 567",
+            "email": "christianakesse54@gmail.com",
+			"facebook":"Akesse Christian",
+			"linkedin":"Akesse Christian Armel",
+			"instagram":"Akesse_christian"
+            }
+    },
+    "cursusScolaire": {
+        "2005-2009" : {
+            "ecole":"Université Nangui Abrogoua, Côte d'ivoire",
+            "diplome": "Licence Informatique",
+            "durée": "Novembre 2021- A présent",
+            "detail": "développement d'applications web et mobile"
+         },
+        "2011": {
+            "ecole":"Lycée Moderne de Bonoua, Côte d'ivoire",
+            "diplome": "Baccalauréat Scientifique (BAC C)",
+            "durée": "2015- 2016",
+            "detail": "Mathématiques et Sciences physiques."
+        },
+        "2004-2005 a" : {
+            "ecole":"",
+            "diplome": "",
+            "detail": ""
+            },
+            "2004-2005 b": {
+                "ecole": "",
+                "diplome": "",
+                "classe": "",
+                "detail": "",
+                "annee": ""
+            },
+            "2003-2004": {
+                "ecole": "",
+                "diplome": "",
+                "detail": ""
+
+            },
+            "2002-2003": {
+                "ecole": "",
+                "diplome": "",
+                "classe": "",
+                "detail": " ",
+                "annee": ""
+            },
+            "2001-2002": {
+                "ecole": "",
+                "diplome": "",
+                "detail": ""
+            },
+            "1997-2000": {
+                "ecole": "",
+                "diplome": "",
+                "detail": ""
+            },
+            "1994-1997": {
+                "ecole": "",
+                "diplome": "",
+                "detail": ""
+            }
+            
+    },
+                
+    "experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"Emeryte SARL",
+            "Fonction": "Développeur Web (CDD)",
+            "temps": "Février 2021- Août 2021",
+			"Missons":{
+				"1":"J'etais chargé de réaliser des interfaces en angular pour une application de gestion des services financières. De plus je réalisais des reports pour notre application de gestion des services financières.",
+				"2":"Enfin je concevait des api (interface de programmation d'application) de paiments pour intégrer dans notre application de gestion des services financières."
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"Orange Côte d'ivoire",
+            "temps": "Mars 2020- Octobre 2021",
+            "Fonction": "Développeur Full Stack web (Stage)",
+			"Missons":{
+				"1":"A Orange Côte d'Ivoire, j'étais au département de la transformation digitale , à Orange Digital Academy. Ou j'étais dans une équipe de 5 personnes , on a eu des formations sur plusieurs technologies notament la technologie de la Blockchain.",
+				"2":"On a réaliser un projet intitulé 'Entrées/sorties', pour gérer les 'Entrées/sorties' des employés et visiteurs à Orange Digital Academy. On a eu à réaliser un projet sur la Blockchain 'Certification de document'."
+			}
+        }
+    },
+    "Competences":{
+        "Business Inteligence": {
+            "1": "",
+            "2": ""
+        },
+		"Informatique":{
+			"1":"programmation WEB(Html5, Bootstrap)",
+			"2":"Bases de donnees(mysql, mongodb)",
+			"3":"Java",
+			"4":"Python",
+			"5":"PHP",
+            "6": "Javascript(node js, Nest js)"
+		},
+        "Pedagogie": {
+            "1": ""
+        },
+    "Langue": {
+        "1": "Francais",
+        "2": "Anglais",
+        "3": ""
+    }
+    },
+    "Loisirs":{
+            "1":"Cuisine",
+			"2": "Voyage",
+			"3":"Football"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"k.akesse",
+            "dossier":"public_html"
+        },
+        "TP":{
+            "tp1":"TP1",
+            "tp2":"TP2",
+            "tp3":"TP3"
+        },
+        "perso":{
+            "1":{"titre" : "Mon premier projet perso", "dossier":"dossier-du-rojet1"},
+            "2":{"titre" : "Mon deuxieme projet perso", "dossier":"dossier-du-rojet2"}
+        }
+    }
+ }

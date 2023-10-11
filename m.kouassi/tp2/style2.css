@@ -1,0 +1,260 @@
+body{
+    font-family: 'century gothic',verdana,sans-serif;
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    height: 400px;
+    background: linear-gradient(to bottom,#000,#0008), center top/cover url(imgs/téléchargement\ \(24\).jpg);
+    text-align: center;
+}
+header > h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: #FFF;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: table;
+    width: 100%;
+    background-color: rgb(0, 250, 167);
+}
+nav a{  
+    display: inline-block;  
+    text-decoration: none;
+    padding: 20px 30Px;
+    color: rgb(44, 29, 7);
+    text-transform: uppercase;
+    font-size: 15px;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav li:hover a{
+    padding: 15px 30px 20px 30px;
+}
+
+section{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.aceuil:hover ,.present{
+    border-top: 5px solid burlywood;
+    background-color: rgba(201, 221, 90, 0.20);
+    margin-bottom: 0;
+    
+}
+
+.contact:hover{
+    border-top: 5px solid rgb(214, 137, 179);
+    background-color: rgba(170, 48, 154, 0.20);
+    margin-bottom: 0;
+}
+.Abouts:hover{
+    border-top: 5px solid rgb(111, 165, 182);
+    background-color: rgba(11, 197, 151, 0.253);
+    margin-bottom: 0;
+}
+.parcexp{
+    border-top: 5px solid rgb(214, 137, 179);
+    background-color: rgb(112, 82, 112);
+    margin-bottom: 0;
+}
+.parcexp{
+    border-radius: 10%;
+}
+#Aright{
+    float: left;
+   
+    margin-right:30px;
+}
+#Aleft{
+    margin-right: 40px;
+}
+.Asec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.Asec::after,.exp::after{
+    content:"";
+    display: table;
+    clear: both;
+}
+footer{
+    height: 40px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgba(201, 221, 90, 0.40);
+    border-top: 2px solid #06B;
+}
+
+@media screen and ( max-width :780px) {
+    header{
+        height:100%;
+    }
+    h1{
+        font-size: 28px;
+        margin: 5px;
+    }
+    div > img{
+        width: 80px;
+        
+    }
+    nav li a{
+        font-size: 9px;
+        padding: 10px; 
+    }
+    header > h1{
+        font-family: cursive;
+        font-size: 15px;
+        font-style: italic;
+        text-align: center;
+        color: #FFF;
+    }
+    nav li:hover a{
+        padding: 5px 10px 10px 10px;
+    }
+    nav h1{
+    text-indent: 15px;
+    font-size: 15px;
+    color: rgb(39, 22, 22);
+}
+}
+img {
+    width: 170px;
+}
+.Asec {
+    margin: 0px 10%;
+}
+#Aleft {
+    float: left;
+    width: 30%;
+}
+
+#Aright {
+    float: left;
+    width: 70%;
+}
+#Aright{
+    font-size: larger;
+    float: right;
+}
+
+
+
+
+article > div>img {
+    width: 170px;
+    border-radius: 100%;
+}
+
+article > nav h1 {
+    text-indent: 30px;
+    color: rgb(39, 22, 22);
+}
+
+article > section {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+article > section h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+article > section h2 {
+    text-decoration: underline;
+
+
+}
+.xpresent {
+    border-top: 5px solid burlywood;
+    background-color: rgba(201, 221, 90, 0.20);
+    margin-bottom: 0;
+}
+
+.competences {
+    border-top: 5px solid rgb(138, 178, 211);
+    background-color: rgba(49, 115, 153, 0.2);
+    margin-bottom: 0;
+}
+
+
+.xparcexp {
+    border-top: 5px solid rgb(143, 226, 164);
+    background-color: rgba(52, 170, 81, 0.2);
+    margin-bottom: 0;
+}
+
+.xparcexp,
+.xcompetences,
+.xpresent {
+    border-radius: 10%;
+}
+
+.xtable {
+    display: table;
+    margin: 0 auto;
+}
+
+.xtitle {
+    float: left;
+}
+
+.xsec {
+    margin: 0px 10%;
+}
+
+.xleft {
+    float: left;
+    width: 30%;
+}
+
+.xright {
+    float: left;
+    width: 70%;
+}
+
+.xcleft,
+.xcright,
+.xsousleft,
+.xsousright {
+    width: 50%;
+    float: left;
+}
+
+.xsec::after,
+.xexp::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and ( max-width :780px) {
+   
+    article > h1 {
+        font-size: 28px;
+        margin: 5px;
+    }
+    article > div>img {
+        width: 80px;
+        border-radius: 100%;
+    }
+ 
+}

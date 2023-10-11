@@ -1,0 +1,17 @@
+
+body {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+feuille de style de l’agent utilisateur
+div {
+    display: block;
+}
+

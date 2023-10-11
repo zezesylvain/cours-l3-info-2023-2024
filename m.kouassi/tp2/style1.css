@@ -1,0 +1,155 @@
+body{
+    font-family: 'century gothic',verdana,sans-serif;
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 400px;
+    background: linear-gradient(to bottom,#000,#0008), center top/cover url(imgs/images\ \(1\).jpg);
+    text-align: center;
+}
+header > h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: #FFF;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: table;
+    width: 100%;
+    background-color: rgb(0, 158, 250);
+}
+nav a{  
+    display: inline-block;  
+    text-decoration: none;
+    padding: 20px 30Px;
+    color: rgb(44, 29, 7);
+    text-transform: uppercase;
+    font-size: 15px;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav li:hover a{
+    padding: 15px 30px 20px 30px;
+}
+
+section{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.aceuil:hover ,.present{
+    border-top: 5px solid burlywood;
+    background-color: rgba(201, 221, 90, 0.20);
+    margin-bottom: 0;
+    
+}
+
+.contact:hover{
+    border-top: 5px solid rgb(214, 137, 179);
+    background-color: rgba(170, 48, 154, 0.20);
+    margin-bottom: 0;
+}
+
+.Abouts:hover{
+    border-top: 5px solid rgb(111, 165, 182);
+    background-color: rgba(11, 197, 151, 0.253);
+    margin-bottom: 0;
+}
+.parcexp{
+
+    background-color: white;
+    margin-bottom: 0;
+}
+.parcexp{
+    border-radius: 10%;
+}
+
+
+
+.right{
+    float: left;
+   
+    margin: 0px 10%;
+}
+.sec::after,.exp::after{
+    content:"";
+    display: table;
+    clear: both;
+}
+footer{
+    height: 40px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgba(201, 221, 90, 0.40);
+    border-top: 2px solid #06B;
+}
+
+@media screen and ( max-width :780px) {
+    header{
+        height:100%;
+    }
+    h1{
+        font-size: 28px;
+        margin: 5px;
+    }
+    div > img{
+        width: 80px;
+        border-radius: 100%;
+    }
+    nav li a{
+        font-size: 9px;
+        padding: 10px; 
+    }
+    header > h1{
+        font-family: cursive;
+        font-size: 15px;
+        font-style: italic;
+        text-align: center;
+        color: #FFF;
+    }
+    nav li:hover a{
+        padding: 5px 10px 10px 10px;
+    }
+    nav h1{
+    text-indent: 15px;
+    font-size: 15px;
+    color: rgb(39, 22, 22);
+}
+#center > img{
+    width: auto;
+    height: auto;
+}
+#center > em{
+    width: auto;
+    height: auto;
+    font-size: 25px;
+}
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#center > img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+
+}
+#center > em{
+    font-size: 20px;
+}

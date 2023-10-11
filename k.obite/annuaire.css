@@ -1,0 +1,27 @@
+body {
+    background-color: #662121;
+}
+
+.jumbotron {
+    background-color: #D8DBE2;
+}
+
+.img {
+    border-radius: 5px;
+    border-color: #D8DBE2;
+}
+
+.col-sm-4 {
+    background-color: #D8DBE2
+}
+
+.etat-civil {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #D8DBE2;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.col-sm-4 :hover {
+    background-color: #FFFFFF;
+}

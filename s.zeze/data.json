@@ -1,0 +1,125 @@
+{
+	"titre":"Expert en calculs scientifiques",
+	"presentation":" ce que vous appelez profil, vous pouvez mettre ca ici",
+    "etatCivil": {
+		"civilite": "Mr",
+        "nom"           : "ZEZE",
+        "prenoms": " Sylvain",
+        "date2naissance": "1978-12-18",
+        "lieu2naissance": "Takoa",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "Veuf avec 2 enfants",
+        "nce": "CI02011845",
+        "contacts": {
+            "mobile"  : "+225 01 03 778 778",
+            "email": "sylvain.zeze@una-ufrsfa.ci",
+			"facebook":"Sylvain ZEZE",
+			"Google":"zezesylvain",
+			"Fax":"+225 01 03 778 778"
+            }
+    },
+    "cursusScolaire": {
+                "2005-2009" : {
+                        "ecole":"Universite Paule Verlaine de Metz, France",
+                "diplome": "Doctorat de Mecanique",
+                "detail": "Calcul de fonctions de forme de haut dere par une technique de perturbation"
+                },
+                "2011": {
+                    "ecole":"Institut CAPGEMINI, France",
+                    "diplome": "Certificat SAP BW",
+                    "detail": ""
+                    },
+                "2004-2005 a": {
+                    "ecole":"Universite Paule Verlaine de Metz, France",
+                    "diplome": "DESS Genie Productique option Conception et fabrication Mecanique Assistee par Ordinateur",
+                    "detail": ""
+                    },
+                "2004-2005 b": {
+                    "ecole":"Institut Gabriel Hirsh, Luxemborg",
+                    "diplome": "CAP ES",
+                    "detail": ""
+                    },
+			  "2003-2004": {
+					"ecole":"Universite Pierre et Marie Curie, Paris 6, France",
+					"diplome": "DEA Solide Structures et systemes mecanique",
+					"detail": ""
+					},
+			   "2002-2003": {
+					"ecole":"Universite Pierre et Marie Curie, Paris 6, France",
+					"diplome": "Maitrise de Genie mecanique Option Productique",
+					"detail": ""
+					},
+			   "2001-2002": {
+					"ecole":"Universite Pierre et Marie Curie, Paris 6, France",
+					"diplome": "Licence de Genie mecanique Option Productique",
+					"detail": ""
+					},
+			   "1997-2000": {
+					"ecole":"Universite de Cocody, Abidjan, C&ocirc;te d'Ivoire",
+					"diplome": "DEUG Math&eacute;matique",
+					"detail": ""
+					},
+			   "1994-1997": {
+					"ecole":"Lyc&eacute;e scientifique, Yamoussoukro, C&ocirc;te d'Ivoire",
+					"diplome": "Bac C",
+					"detail": ""
+					}
+                },
+    "experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":"UniversitE nangui Abrogoua",
+			"Missons":{
+				"1":"Cours magistraux de Analyse Numerique, Programmation WEB, Atelier genie logiciels",
+				"2":"Travaux pratiques et Travaux diriges de Programmation WEB"
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"XERYA",
+			"Missons":{
+				"1":"DEUTSCH: TMA SAP BW",
+				"2":"TF1: Correction d'une solution de report SAP BW"
+			}
+        }
+    },
+    "Competences":{
+		"Business Inteligence":{
+			"1":"SAP BW",
+			"2":"SAP ECC 6"
+		},
+		"Informatique":{
+			"1":"Expert en programmation WEB",
+			"2":"Bases de donnees",
+			"3":"Java",
+			"4":"Python",
+			"5":"Fortran",
+			"6":"C/C++"
+		},
+        "Pedagogie":{
+            "1":"Expert MOODLE"
+    },
+    "Langue": {
+        "1": "Francais",
+        "2": "Anglais"
+    }
+    },
+    "Loisirs":{
+            "1":"Formule 1",
+			"2": "Tennis",
+			"3":"Football"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"s.zeze",
+            "dossier":"dossier-du-projet-de-groupe"
+        },
+        "TP":{
+            "tp1":"Dossier-du-tp-1",
+            "tp2":"Dossier-du-tp-2",
+            "tp3":"Dossier-du-tp-3"
+        },
+        "perso":{
+            "1":{"titre" : "Mon premier projet perso", "dossier":"dossier-du-rojet1"},
+            "2":{"titre" : "Mon deuxieme projet perso", "dossier":"dossier-du-rojet2"}
+        }
+    }
+ }

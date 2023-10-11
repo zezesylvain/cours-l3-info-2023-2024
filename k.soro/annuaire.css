@@ -1,0 +1,77 @@
+                                            .img-thumbnail {
+                                                padding: .08rem;
+                                                border: 1px solid whitesmoke;
+                                                border-radius : 90px;
+                                                overflow: hidden;
+                                                
+                                                max-width: 100%;
+                                            }
+                                            
+                                            .etat-civil.etudiant {
+                                                display: grid;
+                                            }
+                                            
+                                            a.lien-cv.vers-monprojetcv.liencv {
+                                                color: blue;
+                                            }
+                                            
+                                            ul {
+                                                margin-top: 0;
+                                                margin-bottom: 1rem;
+                                                list-style: inherit;
+                                                text-align: left;
+                                            }
+                                            
+                                            .pas2CV {
+                                                color: rgb(255, 187, 0) !important;
+                                            }
+                                            
+                                            .bouton-minicv {
+                                                color: rgb(255, 187, 0);
+                                            }
+                                            
+                                            span.by.designer {
+                                                font-size: x-large;
+                                            }
+                                            
+                                            .proprietaire {
+                                                color: rgb(220, 190, 20);
+                                            }
+                                            
+                                            .jumbotron {
+                                                padding: 2rem 1rem;
+                                                margin-bottom: 2rem;
+                                                background-color: rgba(120, 204, 119, 0.781);
+                                                border-style: solid whitesmoke;
+                                                width: 100% !important;
+                                                text-align: center;
+                                            }
+                                            img.photo.img-thumbnail.annuaire-img {
+    border-radius: 90px;
+}
+li {
+    list-style: none;
+}
+                                            .les-tps ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding-left: 10px;
+}
+                                            
+                                            .annuaire-item {
+                                                background-color: rgba(255, 187, 0, 0.522);
+                                                border: solid whitesmoke;
+                                                text-align: center;
+                                                width: 400px;
+                                                overflow: hidden;
+                                            }
+                                            
+                                            .form-inline {
+                                                display: grid;
+                                                align-items: center;
+                                                text-align: center;
+                                            }
+                                        
+                                            
+                                            
+                                        

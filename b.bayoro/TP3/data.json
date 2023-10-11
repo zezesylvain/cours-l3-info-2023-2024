@@ -1,0 +1,21 @@
+{
+
+	"cv":[
+           {
+		     "nom":"BAYORO",
+		     "prenom":"BROU LAURENT STEPHANE",
+		     "phone":"0545788036",
+		     "job":"ETUDIANT"
+	       },
+	       {
+	       	"dp1":"_CEP",
+	       	"dp2":"_BEPC",
+	       	"dp3":"_BAC C",
+	       	"dp4":"_DUT",
+	       	"dp5":"_PREPATION_DE_LICENCE"
+	       }		
+        ]
+
+
+
+}

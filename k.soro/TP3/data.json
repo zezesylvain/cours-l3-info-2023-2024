@@ -1,0 +1,71 @@
+{
+
+    "infoperso": {
+        "nom": "SORO",
+        "prenoms": " KOLO SAMUEL",
+        "date_naissance": "30/12/1998",
+        "lieu_naissance": "Bouake",
+        "contact": "+225 07 59 13 34 10",
+        "nationalite": "Ivoirienne",
+        "email": "samuelsoro653@gmail.com"
+    },
+    "cursus": {
+        "2021-2022": {
+            "ecole": " l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 3 Informatique",
+            "annee": "2021 - 2022"
+        },
+        "2020-2021": {
+            "ecole": " l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 2 Mathématiques et Informatique",
+            "annee": "2020 - 2021"
+        },
+
+        "2018-2019": {
+            "ecole": " l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 1 Mathématiques et Informatique",
+            "annee": "2018 - 2019"
+        },
+
+
+        "2017-2018": {
+            "ecole": " Lycée Moderne Belleville (Bouaké)",
+            "diplome": "Baccalauréat Série D",
+            "annee": "2017 - 2018"
+        }
+
+    },
+    "diplome": {
+
+        "1": " Licence Informatique Universite Nangui Abrogoua (en cours)",
+        "annee1": "2021 - 2022",
+        "2": " Baccalaureat Lycée Moderne Belleville (Bouaké)",
+        "annee2": "2018 - 2019",
+        "3": "  Brevet d'etude Premier Cycle Lycée Moderne Belleville (Bouaké)",
+        "annee3": "2014 - 2015"
+    },
+
+    "Competences": {
+        "PROG": {
+            "1": "Programmation WEB",
+            "2": "Python",
+            "3": "Pascal"
+
+        },
+        "other": {
+            "1": "Bonne intégration dans l'univers des nouvelles technologies informatiques",
+            "2": "Aptitude à travailler en équipe",
+            "3": "Aptitude à diriger une équipe "
+        },
+
+        "langue": {
+            "1": "Francais parlé et écris",
+            "2": "Anglais parlé et écris"
+
+        }
+    },
+    "loisirs": {
+        "1": "Football",
+        "2": "Basketball"
+    }
+}

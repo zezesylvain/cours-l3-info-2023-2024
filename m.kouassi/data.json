@@ -1,0 +1,128 @@
+{
+	"titre":"Administrateur reseau junior",
+	"presentation":" je suis melone andy KOUASSI etudiant en informatique, ma passion jetez un cpoup d'oeil a mon CV",
+    "etatCivil": {
+		"civilite": "Mr",
+        "nom"           : "KOUASSI",
+        "prenoms": " melone martial andy",
+        "date2naissance": "2000-12-23",
+        "lieu2naissance": "dahiepa kehi s/p ouragahio",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "celibataire sans enfants",
+        "nce": "CI0219052943",
+        "contacts": {
+            "mobile"  : "+225 07 681 010 08",
+            "email": "andy.30@Yahoo.com",
+			"facebook":"melone andy",
+			"Google":"melone andy",
+			"Fax":"+225 01 41 187 592"
+            }
+    },
+    "cursusScolaire": {
+                "2005-2009" : {
+                        "ecole":"<strong>2018-2022</strong>    :Universite nangui abrogoua, Abidjan cote d'ivoire",
+                "diplome": "licence Informatique en cours",
+               "detail": "" 
+                },
+                "2011": {
+                    "ecole":"<strong>2017-2018</strong>   : lycée moderne yopougon andokoi, Abidjan cote d'ivoire ",
+                    "diplome": "Bacalaureat",
+                    "detail": ""
+                    },
+                "2004-2005 a": {
+                    "ecole":"<strong>2014-2015</strong>    :groupe scolaire al ghandir, Abidjan côte d'Ivoire  ",
+                    "diplome": "BEPC",
+                    "detail": ""
+                    },
+                "2004-2005 b": {
+                    "ecole":"<strong>2010-2011</strong>groupe scolaire al ghandir, abidjan côte d'Ivoire ",
+                    "diplome": "CEPE",
+                    "detail": ""
+                    },
+                    "2003-2004": {
+                        "ecole":"",
+                        "diplome": "",
+                        "detail": ""
+                        },
+                   "2002-2003": {
+                        "ecole":"",
+                        "diplome": "",
+                        "detail": ""
+                        },
+                   "2001-2002": {
+                        "ecole":"",
+                        "diplome": "",
+                        "detail": ""
+                        },
+                   "1997-2000": {
+                        "ecole":"",
+                        "diplome": "",
+                        "detail": ""
+                        },
+                   "1994-1997": {
+                        "ecole":"",
+                        "diplome": "",
+                        "detail": ""
+                        }
+	
+                },
+    "experienceProfessionnelles":{
+		"depuis 2012":{
+			"Entreprise":" <strong>depuis 2018</strong> club intelect",
+			"Missons":{
+				"1":"repetiteur cours a domicile",
+				"2":""
+			}
+		},
+		"2011-2012":{
+			"Entreprise":"<strong> 2018-2022 </strong> acces world",
+			"Missons":{
+				"1":"aide informatique, développement, instalation de système ",
+				"2":""
+			}
+        }
+    },
+    "Competences":{
+        "Business Inteligence":{
+			"1":"",
+			"2":""
+		},
+		"Informatique":{
+			"1":" programmation WEB",
+			"2":"Bases de donnees",
+			"3":"Java",
+			"4":"Python",
+			"5":"",
+			"6":"C/C++"
+		},
+        "Pedagogie":{
+            "1":""
+    },
+    "Langue": {
+        "1": "Bon niveau en Francais",
+        "2": "Niveau moyen en Anglais"
+        
+        
+    }
+    },
+    "Loisirs":{
+            "1":"Boxe",
+			"2": "Tennis",
+			"3":"Football"
+    },
+    "projets":{
+        "groupe":{
+            "chef":"d.ouattara",
+            "dossier":"projet_de_groupe"
+        },
+        "TP":{
+            "tp1":"tp1",
+            "tp2":"tp2",
+            "tp3":"tp3"
+        },
+        "perso":{
+            "1":{"titre" : "Mon premier projet perso", "dossier":"m.kouassi/projetperso1"},
+            "2":{"titre" : "Mon deuxieme projet perso", "dossier":"m.kouassi/projetperso2"}
+        }
+    }
+ }

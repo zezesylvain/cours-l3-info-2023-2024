@@ -1,0 +1,86 @@
+{
+        "titre":"Etudiant en Informatique",
+        "etatCivil": {
+                "civilite": "Mr",
+                "nom": "CISSE",
+                "prenoms": "Anzoumana",
+                "date2naissance": "1995-03-23",
+                "lieu2naissance": "Oumé",
+                "nationalite": "Ivoirienne",
+                "situationMatrimoniale": "C&eacutelibataire",
+                "nce": "CI0217046988",
+                "contacts": {
+                        "mobile": "+225 89427728",
+                        "email": "kestyraf@gmail.com",
+                        "facebook": "zoum zoum"
+                        }
+        },
+        "cursusScolaire": {
+                "20019-2020" : {
+                        "ecole":"Universite Nangui Abrogua, Côte d'Ivoire",
+                        "diplome": "Licence 3 (en cours)",
+                        "detail": ""
+                },
+
+                "2018-2019": {
+                        "ecole":"Universite Nangui Abrogua, Côte d'Ivoire",
+                        "diplome": "Licence 2",
+                        "detail": ""
+                },
+
+                "2017-2018": {
+                        "ecole":"Universite Nangui Abrogua, Côte d'Ivoire",
+                        "diplome": "Licence 1",
+                        "detail": ""
+                },
+                
+                "2016-2017": {
+                        "ecole":"Collège Iblo Fofana, Côte d'Ivoire",
+                        "diplome": "Baccalauréat série D",
+                        "detail": ""
+                }
+        },
+
+        "experienceProfessionnelles":{
+                "2020":{
+                        "Entreprise":"pasapas",
+                        "Missons":{
+                                "1":"Développement d'application WEB",
+                                "2":"Gestion de base de données"
+                        }
+                
+                },
+
+                "2011-2012":{
+                        "Entreprise":"InfoStudy",
+                        "Missons":{
+                                "1":"Développement d'application mobile"
+                        }
+                
+                }
+
+        },
+
+        "Competences":{
+                "Informatique":{
+                        "1":"Programmation WEB",
+                        "2":"Bases de donnees",
+                        "3":"Java",
+                        "4":"Python",
+                        "5":"Pascal",
+                        "6":"C/C++"
+                },
+
+                "Langue": {
+                        "1": "Francais",
+                        "2": "Anglais"
+                }
+        
+        },
+
+        "Loisirs":{
+                "1":"Musique",
+                "2": "Karaté"
+        }
+
+}

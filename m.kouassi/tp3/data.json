@@ -1,0 +1,58 @@
+{
+    "nom": "Kouassi melone martial andy",
+    "profession": "Etudiant a nangui abrogoua|web designer & administrateur reseau junior",
+    "adresse": "yopougon",
+    "description": "Partager et contribuer au developpement de la vision d'un monde qui change avec de nouvelles perspectives.assurer le bon fonctionnement des outils informatiques : édition d'un cahier des charges technique selon les besoins des utilisateurs. choix du matériel physique, et éventuellement assemblage. mise en place et administration du réseau.",
+    "telephone": "0768101008",
+    "email": "meloneandy30@gmail.com",
+
+    
+    "etude": [{
+        "et1":[
+            {
+                "e1":"2020 - 2022",
+                "e2":"En année de Licence d'Informatique",
+                "e3":"L'Université Nangui Abrogoua"
+            }
+        ],
+        "et2":[
+            {
+                "e1":"2017 - 2018",
+                "e2":"Baccalauréat Scientifique, Série D",
+                "e3":"Lycée Moderne yopougon andokoi"
+                
+            }
+        ],
+        "et3":[
+            {
+                "e1":"2014 - 2015",
+                "e2":"Brevet d'Eudes du Premier Cycle (BEPC)",
+                "e3":"collège le Roi David yopougon"
+                
+            }
+        ]
+    }],
+    "exp": [{
+        "ex1":[
+            {
+                "e1":"Depuis Mai 2021",
+                "e2":"Afrik Textile",
+                "e3":"Social Media Manager"
+            }
+        ],
+        "ex2":[
+            {
+                "e1":"Juillet-Novembre 2020",
+                "e2":"Djelibam",
+                "e3":"Stage en Communication Digitale"
+                
+            }
+        ]
+    }],
+    "Professionnel": [{
+        "pro1": "Communication digitale - Graphisme - HTML - CSS - PHP - boostrap - reseau informatique ",
+        "pro2": "Anglais (Moyen) - Français (Bon)  ",
+        "pro3": "Innovations technologiques - Jeux de société - voyage"
+
+    }]
+}

@@ -1,0 +1,152 @@
+body{
+	background-color:rgb(60, 167, 108);
+	border-radius:10px blue;
+	font-size:1.5em;
+	border:15px double black;
+	
+}
+
+.minicv-jumbo{
+	background-color:rgba(0,0,0,0.4);
+	border-radius:10px;
+	border:10px double white;
+}
+.minicv-jumbo:hover{
+	background-color:rgba(0,0,64,0.4);
+	border-radius:10px;
+	box-shadow:0px 10px 15px 3px black;
+	border:10px double white;
+	color:white;
+}
+.navbar-dark,.titre-annuaire{
+text-align:center;
+color:white;
+text-align:center;
+font-family:algerian;
+}
+.email{
+	color:rgba(0,0,64,0.9);
+	font-size:1.1em;
+}
+.email:hover{
+	color:rgba(255,255,255,0.8);
+	font-weight:bold;
+}
+.nce, .email, .mobile{
+    display: block;
+    font-weight: bold;
+}
+button{
+	border-radius:blue;
+	border:6px black;
+}
+.etudiant{
+	font-size:0.5em;
+	font-family:arial black;
+	border:5px black;
+}
+
+.liencv,.pas2CV,.bouton-minicv{
+	color:white;
+	border:double black;
+	border-radius:10px ;
+	margin-bottom:2px;
+	margin-top:2px;
+	font-size:1.5em;
+	padding:0px 0px 0px 0px;
+}
+.bouton-minicv:hover{
+	color:white;
+	border:double black;
+	border-radius:10px ;
+	margin-bottom:2px;
+	margin-top:2px;
+	font-size:1.5em;
+	padding:0px 0px 0px 0px;
+	background-color:rgba(0,0,0,0.9);
+}
+.liencv:hover{
+	color:white;
+	border:double black;
+	border-radius:10px ;
+	margin-bottom:2px;
+	margin-top:2px;
+	font-size:1.5em;
+	padding:0px 0px 0px 0px;
+	background-color:rgba(0,0,0,0.9);
+}
+.pas2CV:hover{
+	color:white;
+	border:double black;
+	border-radius:10px ;
+	margin-bottom:2px;
+	margin-top:2px;
+	font-size:1.5em;
+	padding:0px 0px 0px 0px;
+	background-color:rgba(0,0,0,0.9);
+}
+footer{
+	color:black;
+	font-weight:bold;
+}
+.list-form{font-weight:bold;
+color:white;
+font-size:0.9em;
+}
+
+}
+
+}
+.nce:before{
+    content: "NCE: "
+}
+
+.mobile:before{
+    content: "TEL: ";
+	font-weight:bold;
+}
+.nele:before{
+    content: "Ne le ";
+    font-weight: bold;
+	
+}
+.nea:before{
+    content: "a ";
+    font-weight: bold;
+}
+.annuaire-item{
+    border: 5px double black;
+    border-radius: 10px ;
+	height:auto;
+	box-sizing:border-box;
+}
+.annuaire-item:hover{
+    border: 5px double black;
+    border-radius: 10px ;
+	background-color:rgba(0,0,0,0.4);
+	height:auto;
+	box-sizing:border-box;
+	color:rgba(255,255,255,0.8);
+	padding:auto;
+}
+.annee{
+    font-weight: bold;
+}
+.diplome{
+    color: red;
+    font-weight: bold;
+}
+.ecole{
+    color: blue;
+}
+.detail{
+    display: block;
+}
+.proprietaire{
+    font-size: 2.0em;
+    color: black ;
+    font-weight: bolder;
+}
+.by{
+    color: graytext;
+}

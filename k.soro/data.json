@@ -1,0 +1,137 @@
+{
+    "titre": "",
+    "presentation": "",
+    "etatCivil": {
+        "civilite": "",
+        "nom": "SORO",
+        "prenoms": " KOLO SAMUEL",
+        "date2naissance": "30/12/1998",
+        "lieu2naissance": "Bouake",
+        "nationalite": "Ivoirienne",
+        "situationMatrimoniale": "",
+        "nce": "",
+        "contacts": {
+            "mobile": "+225 07 59 13 34 10",
+            "email": "samuelsoro653@gmail.com",
+            "facebook": "",
+            "Google": "",
+            "Fax": ""
+        }
+    },
+    "cursusScolaire": {
+        "2005-2009": {
+            "ecole": "l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 3 Informatique",
+            "detail": "2021 - 2022",
+            "detail1":""
+        },
+        "2011": {
+            "ecole": "l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 2 Mathématiques et Informatique",
+            "detail": "2020 - 2021",
+            "detail2":""
+            
+        },
+        "2004-2005 a": {
+            "ecole": "l'Université NANGUI ABROGOUA",
+            "diplome": "Licence 1 Mathématiques et Informatique",
+            "detail": "2018 - 2019"
+        },
+        "2004-2005 b": {
+            "ecole": "Lycée Moderne Belleville (Bouaké)",
+            "diplome": "Baccalauréat Série D",
+            "classe": "",
+            "detail": "2017 - 2018",
+            "annee": ""
+        },
+        "2003-2004": {
+            "ecole": "",
+            "diplome": "Baccalaureat Lycée Moderne Belleville (Bouaké)",
+            "detail": "2021 - 2022"
+
+        },
+        "2002-2003": {
+            "ecole": "",
+            "diplome": "Brevet d'etude Premier Cycle Lycée Moderne Belleville (Bouaké)",
+            "classe": "",
+            "detail": "2014 - 2015",
+            "annee": ""
+        },
+        "2001-2002": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1997-2000": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        },
+        "1994-1997": {
+            "ecole": "",
+            "diplome": "",
+            "detail": ""
+        }
+    },
+    "experienceProfessionnelles": {
+        "depuis 2012": {
+            "Entreprise": "",
+            "Missons": {
+                "1": "",
+                "2": "",
+                "3":""
+            }
+        },
+        "2011-2012": {
+            "Entreprise": "",
+            "Missons": {
+                "1": " ",
+                "2": "",
+                "3":""
+            }
+        }
+    },
+    "Competences": {
+        "Business Inteligence": {
+            "1": "Football",
+            "2": "Basketball"
+        },
+        "Informatique": {
+            "1": "Bonne intégration dans l'univers des nouvelles technologies informatiques",
+            "2": "Aptitude à travailler en équipe",
+            "3": "Aptitude à diriger une équipes",
+            "4": "",
+            "5": "",
+            "6": ""
+        },
+        "Pedagogie": {
+            "1": ""
+        },
+        "Langue": {
+            "1": "Francais parlé et écris",
+            "2": "Anglais parlé et écris",
+            "3": ""
+        }
+    },
+    "Loisirs": {
+        "1": "Programmation WEB",
+        "2": "HTML/CSS",
+        "3": "Python",
+        "4": ""
+    },
+    "projets": {
+        "groupe": {
+            "chef": "y.yao",
+            "dossier": "etudiant"
+        },
+        "TP": {
+            "tp1": "TP1",
+            "tp2": "TP2",
+            "tp3": "TP3"
+        },
+        "perso": {
+            "1": { "titre": "Mon premier projet perso", "dossier": "dossier-du-rojet1" },
+            "2": { "titre": "Mon deuxieme projet perso", "dossier": "dossier-du-rojet2" }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+
+"infoperso": {  "nom": "TOURE NAMI NOUHO",
+                "niveau": "LICENCE 3 Informatique",
+                "nation": "Invoirienne",
+                "matrimo":"Célibataire sans endant"
+              },
+
+  "coordonnés":{"adresse":"Abidjan-Anyama(Cote d'Ivoire)",
+                "mail":"tourenouho4@gmail.com",
+                "contact":"+225 59 70 65 00",
+                "whatsapp":" +225 46 25 72 20",
+                "blog":"El Nami Nouho"            
+                },
+
+  "informatique":{"word":"60",
+                  "excel":"50",
+                  "publisher":"40",
+                  "photoshop":"60",
+                  "illustrator":"40",
+                  "premier pro":"30",
+                  "indesign":"20",
+                  "html":"40",
+                  "css":"40",
+                  "php":"20"
+                  },
+
+  "diplome": {"diplome1": "CEPE",
+              "diplome2":"BEPC",
+              "diplome3":"BAC",
+              "diplome4":"LICENCE2"
+              },
+
+  "atouts":{"atout1":"Créativité",
+            "atout2":"Esprit d'équipe",
+            "atout3":"Rigueur",
+            "atout4":"Infographe",
+            "atout5":"Blogueur"
+           },
+
+  "experience":{"experience1":"Enqueteur avec ONG ACF",
+                "experience2":"Chef de centre de la révision de la liste électorale",
+                "experience3":"Operateur de saisie à l'operation un ivoirien une CNI"
+               },
+
+  "langue":{"langue1":"Niveau assez-bien",
+            "langue2":"Connaisssance scolaire",
+            "langue3":"Connaisssance scolaire"
+            }
+
+  
+              
+
+}

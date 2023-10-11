@@ -1,0 +1,200 @@
+body{
+    font-family: 'Montserrat', sans-serif,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: repeating-linear-gradient(45deg,var(--color_5),var(--color_6),var(--color_7),var(--color_8),var(--color_6));
+}
+:root{
+    /* Pour le fond */  
+    --color_5: #7ce039;
+    --color_6: #18b8f8;
+    --color_7: #B6D8F2;
+    --color_8: #f1e0e6;
+    /* pour les cadre */
+    --color_1: #F9968B;
+    --color_2: #2CCED2;
+    --color_3: #e90808;
+    --color_4: #d12dc9;
+    /* pour les boutons */
+    --color_9: #CDEAC0;
+    --color_10: #FEECE6;
+    --color_11: #B6D8F2;
+    --color_12: #DBF9E7;
+    /* pour les profil */
+    --color_13:;
+    --color_14:;
+    --color_15:;
+    --color_16:;
+}
+.navbar.navbar-expand-md.navbar-dark.fixed-top.bg-dark.menu-haut{
+    border-bottom: 3px double var(--color_3);
+    height: 50px;
+}
+.bg-dark{
+    background-image: repeating-linear-gradient(45deg,var(--color_2),var(--color_7),var(--color_6),var(--color_5));
+}
+.navbar-brand{
+    font-style: italic;
+    position: relative;
+    transform: translateX(115%);
+}
+.fixed-top{
+    position: none;
+}
+.jumbotron.minicv-jumbo{
+    border-radius: 50px;
+    background-image: repeating-linear-gradient(45deg,var(--color_1),var(--color_2),var(--color_3),var(--color_4),var(--color_1));
+    border: 1px solid var(--color_8);
+    text-align: center;
+}
+.jumbotron.minicv-jumbo:hover{
+    background-image: repeating-linear-gradient(75deg,var(--color_1),var(--color_5),var(--color_8),var(--color_6),var(--color_3));
+}
+.by.designer{
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding: 4px 7px;
+    border-radius: 15px;
+    background: linear-gradient(55deg,var(--color_9),var(--color_10),var(--color_11),var(--color_12));
+    border: 1px solid black;
+}
+input{
+    outline: none;
+}
+.form-inline.mt-2.mt-md-0.search-form{
+    margin: 7px 0px;
+    position: relative;
+    left: 370px;
+    text-align: center;
+    width: 300px;
+    outline: none;
+    border-radius: 10px;
+}
+.form-inline.mt-2.mt-md-0.list-form{
+    font-style: italic;
+    margin: 7px 0px;
+    position: relative;
+    left: 225px;
+    width: 650px;
+    text-align: center;
+}
+.form-inline.mt-2.mt-md-0.list-form select{
+    margin: 0px 5px;
+    text-align: center;
+}
+.pagination.paginationcv{
+    text-align: center;
+    position: relative;
+    left: 205px;
+    width: 600px;
+}
+.page-link{
+    border-radius: 15px;
+    color: black;
+    margin: 1px 1px;
+    transition: .2s;
+    background: linear-gradient(55deg,var(--color_9),var(--color_10),var(--color_11),var(--color_12));
+    border: 1px solid black;
+}
+.page-link:hover{
+    color: rgb(0, 255, 42);
+    background-color: black;
+    transition: .2s;
+}
+.form-control.mr-sm-2{
+    width: 300px;
+}
+
+.col-12.col-sm-4.foot {
+    width: 370px;
+}
+.col-12.col-sm-4.foot .copy{
+    position: relative;
+    left: 395px;
+}
+.col-12.col-sm-4.foot .foot.adresse{
+    position: relative;
+    left: -75px;
+}
+.col-sm-4.col-md-3.annuaire-item{
+    font-size: 13px;
+    padding: 0px 0px;
+    margin: 10px 40px;
+    display: relative;
+    left: 25px;
+    width: 200px !important;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: 0.5px solid black;
+    background-image: linear-gradient(75deg,var(--color_8),var(--color_6),var(--color_5),var(--color_7),var(--color_10));
+    overflow: hidden;
+}
+.col-sm-4.col-md-3.annuaire-item:hover{
+    width: 250px !important;
+    height: auto;
+}
+.img.photo.img-thumbnail.annuaire-img{
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    border-radius: 200px;
+    padding: 0px 0px;
+    background-color: transparent;
+
+}
+.img-thumbnail{
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    padding: 0px 0px;
+    border-radius: 200px;
+} 
+.etat-civil.etudiant{
+    text-align: center;
+    display: grid;
+}
+.txt.telephone.mobile,.btn.bouton.bouton-minicv,.pas2CV,br,.form-control.mr-sm-2,.titre-annuaire.txt{
+    display: none;
+}
+.lien-cv.vers-monprojetcv.liencv{
+    color: blue;
+    color: black;
+    padding: 7px 7px;
+    position: relative;
+    transform: translateX(85%);
+    background: linear-gradient(55deg,var(--color_9),var(--color_10),var(--color_11),var(--color_12));
+    border: 0.5px solid rgb(0, 0, 0);
+    transition: .5s;
+    margin: 7px 7px;
+    width: 100px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.lien-cv.vers-monprojetcv.liencv:hover{
+    color: var(--color_3);
+    padding: 7px 7px;
+    background-color: var(--color_1);
+    transition: .5s;
+}
+.mon.email{
+    text-decoration: none;
+    color:blue;
+    color: var(--color_3);
+    transition: .2s;
+}.mon.email:hover{
+    color:var(--color_1);
+}
+.txt.nom{
+    font-style: italic;
+    font-weight: bold;
+}
+br{
+    display: none;
+}
+.container.minicv-main{
+    padding: 0px 0px;
+}
+.navbar-dark .navbar-brand {
+    color: rgb(0, 0, 0);
+}

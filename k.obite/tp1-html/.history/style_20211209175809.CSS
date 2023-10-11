@@ -1,0 +1,55 @@
+
+
+#photo0{
+
+    width: 1340px;
+     height: 200px; 
+
+}
+
+
+body{ background-color: rgb(80, 72, 17);}
+ 
+ 
+#fichier1{
+
+    font-size: 40px; 
+    text-align: center;
+    color: aliceblue;        
+}
+
+    #photo1{
+
+        float: left;
+        width: 200px;
+        height: 200px;
+        margin: 25px;
+    }
+     
+    #fichier2{
+
+        font-size: 30px;
+        margin-left: 250px;
+    }
+      
+    #monnom{
+
+        color: aliceblue;
+    }
+
+    #monprenoms{
+
+        color: aliceblue;
+    }
+
+    #montelephone{
+
+        color: aliceblue;
+    }
+
+    #fichier22{
+
+        font-fami
+        font-size: 30px
+    }
+ 

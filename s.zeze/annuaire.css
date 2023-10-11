@@ -1,0 +1,44 @@
+.nce, .email, .mobile{
+    display: block;
+    font-weight: bold;
+}
+.nce:before{
+    content: "NCE: "
+}
+
+.mobile:before{
+    content: "TEL: "
+}
+.nele:before{
+    content: "Né le ";
+    font-weight: bold;
+}
+.nea:before{
+    content: "a ";
+    font-weight: bold;
+}
+.annuaire-item{
+    border-bottom: 1px #004085 solid;
+    border-left: 1px #0056b3 ridge;
+}
+.annee{
+    font-weight: bold;
+}
+.diplome{
+    color: red;
+    font-weight: bold;
+}
+.ecole{
+    color: blue;
+}
+.detail{
+    display: block;
+}
+.proprietaire{
+    font-size: 2.0em;
+    color: black ;
+    font-weight: bolder;
+}
+.by{
+    color: graytext;
+}
