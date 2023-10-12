@@ -1,0 +1,54 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    margin-top: 0;
+}
+h2{
+    color:red;
+    font-size:1.9em;
+    font-weight: bold;
+}
+
+table{
+    border:2px blue solid;
+}
+
+.joli{
+    color:brown;
+}
+.gros-titre{
+    font-size:3.1em;
+    color:blueviolet;
+}
+
+.entete{
+    height: 300px;
+    background-color: rgb(150, 45, 156);
+}
+
+.menu{
+    background-color: rgb(88, 84, 151);
+    padding: 10px;
+    padding-bottom: 20px;
+}
+.gauche{
+    background-color: rgb(192, 13, 52);
+    float: left;
+}
+
+.corps{
+    background-color: #FFF;
+    float: right;
+}
+
+.pied{
+    height: 250px;
+    background-color: #000;
+}
+.btn-danger{
+    background-color: blue;
+}
+
+input{
+    border: 1px solid black;
+}
