@@ -1,0 +1,37 @@
+{"etatCivil":{"genre":"Masculin","civilite":"Mr","nom":"ZEZE","prenoms":"Sylvain","date2naissance":"1978-12-18","lieu2naissance":"Takoa","nationalite":"Ivoirienne","situationMatrimoniale":"","nce":"","contact":{"mobile":"+225 07 59 89 85 25","email":"sylvain.zeze@una-ufrsfa.ci","google":"zezesylvain","facebook":"","instagram":"","tiktok":"","X":""}},"cursusScolaire":{"cs1":{"periode":"2001-2003","institution":"ENS Cachan","diplome":"Licence de Technologie M\u00e9canique","detail":""},"cs2":{"periode":"2001-2003","institution":"ENS Cachan","diplome":"Licence de Technologie M\u00e9canique","detail":""},"cs3":{"periode":"2001-2003","institution":"ENS Cachan","diplome":"Licence de Technologie M\u00e9canique","detail":""},"cs4":{"periode":"2001-2003","institution":"ENS Cachan","diplome":"Licence de Technologie M\u00e9canique","detail":""}},
+"experienceProfessionnelles":{
+    "ep1": {
+        "periode": "depuis 2010",
+        "entreprise": "Universit\u00e9 Nangui ABROGOUA",
+        "titre": "Enseignant-Chercheur",
+        "description": "Détail du poste",
+        "missions": {
+                "m1": {
+                    "description":  "Cours de Programmation web Licence 3 et Master 1",
+                    "outils": "PHP 8.1, Laarvel 10, CSS3, Javascript, AlpineJS,"
+                },
+                "m2": {
+                    "description":  "Cours de Programmation web Licence 3 et Master 1",
+                    "outils": "PHP 8.1, Laarvel 10, CSS3, Javascript, AlpineJS,"
+                }
+            }
+        } ,
+    "ep2": {
+        "periode": "2008 à 2010",
+        "entreprise": "XERYA Business Consulting",
+        "titre": "Chef de projets",
+        "description": "Détail du poste",
+        "missions": {
+                "m1": {
+                    "description":  "Cours de Programmation web Licence 3 et Master 1",
+                    "outils": "PHP 8.1, Laarvel 10, CSS3, Javascript, AlpineJS,"
+                },
+                "m2": {
+                    "description":  "Cours de Programmation web Licence 3 et Master 1",
+                    "outils": "PHP 8.1, Laarvel 10, CSS3, Javascript, AlpineJS,"
+                }
+            }
+        }   
+    },
+    "Competences":{"Informatique":{"1":"Expert en programmation WEB","2":"Bases de donnees","3":"Java","4":"Python","5":"Fortran","6":"C\/C++"},"Pedagogie":{"1":"Expert MOODLE"},"Langue":{"1":"Francais","2":"Anglais"}},"loisirs":{"Sport":["football","Tennis","Formule 1"],"Informatique":["jeux video","programmation"]}
+}

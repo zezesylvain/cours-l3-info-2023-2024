@@ -52,9 +52,35 @@
     </li>
 </ul>
 <h2>
-    Travail à faire: Projets
+    Travail à faire:
 </h2>
+<h3>
+    TP:
+</h3>
+<ol>
+    <li>
+        Créer un petit site en HTML de 3 à 5 pages. Uniquement en HTML et CSS
+    </li>
+</ol>
 
+<h3>
+    Projets:
+</h3>
+<ul>
+    <li>
+        Créer un fichier data.json qui représente votre base de données.
+        Toutes vos informations de l'annuaire, de votre CV devront provenir de ce fichier.
+    </li>
+    <li>
+        Créer un fichier annuaire.css qui est un projet css qui consite à styliser l'annuaire de la classe.
+    </li>
+    <li>
+        Créer un dossier cv donc l'index reprentera votre projet CV
+    </li>
+    <li>
+        Vous devez avoir une photo à la racine de votre dossier de nom photo.jpg de dimensions 600px X 600px.
+    </li>
+</ul>
 <ol>
     <li>
         <h3>
